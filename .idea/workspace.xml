@@ -5,6 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P01_ReverseNumbersWithAStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P02_BasicStackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P03_MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P04_BasicQueueOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P05_BalancedParantheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P06_RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P07_SimpleTextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P08_InfixToPostfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P10_Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P01_BrowserHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P03_DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P04_MatchingBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P05_PrinterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P06_HotPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P07_MathPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P08_BrowserHistoryUpgrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +31,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Pv8OAVphNrGD59Os13Iv11LqfE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -44,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684326159991</updated>
-      <workItem from="1684326161079" duration="1064000" />
+      <workItem from="1684326161079" duration="1370000" />
     </task>
     <servers />
   </component>
