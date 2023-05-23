@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,7 @@
       <workItem from="1684326161079" duration="2363000" />
       <workItem from="1684396107656" duration="2889000" />
       <workItem from="1684751810857" duration="1673000" />
-      <workItem from="1684826959210" duration="10771000" />
+      <workItem from="1684826959210" duration="11425000" />
     </task>
     <servers />
   </component>

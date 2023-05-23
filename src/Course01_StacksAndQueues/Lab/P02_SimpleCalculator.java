@@ -25,8 +25,10 @@ public class P02_SimpleCalculator {
 
             int result;
             switch (op) {
-                case "+": result = first + second; break;
-                case "-": result = first - second; break;
+                case "+": result = first + second; 
+                break;
+                case "-": result = first - second;
+                break;
                 default:
                     System.out.println("Unknown operation " + op);
                     return;
