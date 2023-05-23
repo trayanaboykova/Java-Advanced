@@ -20,17 +20,17 @@ public class P02_SimpleCalculator {
 
         while (stack.size() > 1) {
             int first = Integer.parseInt(stack.pop());
-            String op = stack.pop();
+            String operator = stack.pop();
             int second = Integer.parseInt(stack.pop());
 
             int result;
-            switch (op) {
-                case "+": result = first + second; 
+            switch (operator) {
+                case "+": result = first + second;
                 break;
                 case "-": result = first - second;
                 break;
                 default:
-                    System.out.println("Unknown operation " + op);
+                    System.out.println("Unknown operation " + operator);
                     return;
             }
 
