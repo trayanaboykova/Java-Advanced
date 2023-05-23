@@ -10,7 +10,7 @@ public class P02_SimpleCalculator {
         String expression = scanner.nextLine();
         String[] expressionParts = expression.split(" ");
         List<String> partsList = Arrays.asList(expressionParts);
-        
+
 
         Collections.reverse(partsList);
 
