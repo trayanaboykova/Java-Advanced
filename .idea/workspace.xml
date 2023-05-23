@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P03_DecimalToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P03_DecimalToBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P02_SimpleCalculator">
+  <component name="RunManager" selected="Application.P02_SimpleCalculator2">
     <configuration name="Demo_Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo.Demo_Fibonacci" />
       <module name="JavaAdvanced" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P02_SimpleCalculator" />
+    <configuration name="P02_SimpleCalculator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P02_SimpleCalculator2" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -106,7 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P02_SimpleCalculator" />
+        <item itemvalue="Application.P02_SimpleCalculator2" />
         <item itemvalue="Application.P01_BrowserHistory" />
         <item itemvalue="Application.Demo_Fibonacci" />
         <item itemvalue="Application.Demo_Recursion_Factorial" />
@@ -124,7 +124,7 @@
       <workItem from="1684326161079" duration="2363000" />
       <workItem from="1684396107656" duration="2889000" />
       <workItem from="1684751810857" duration="1673000" />
-      <workItem from="1684826959210" duration="8280000" />
+      <workItem from="1684826959210" duration="10380000" />
     </task>
     <servers />
   </component>
@@ -151,7 +151,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator.java</url>
           <line>7</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

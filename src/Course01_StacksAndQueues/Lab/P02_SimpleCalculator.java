@@ -1,39 +1,41 @@
 package Course01_StacksAndQueues.Lab;
 
-import java.util.ArrayDeque;
-import java.util.Scanner;
+import java.util.*;
 
 public class P02_SimpleCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        ArrayDeque<String> stack = new ArrayDeque<>();
+
         String expression = scanner.nextLine();
+        String[] expressionParts = expression.split(" ");
+        List<String> partsList = Arrays.asList(expressionParts);
+        
 
-        ArrayDeque<Integer> stack = new ArrayDeque<>();
-        int num = 0;
-        int sign = 1;
-        stack.add(0); // Initialize the stack with 0 as the base value
+        Collections.reverse(partsList);
 
-        for (char ch : expression.toCharArray()) {
-            if (Character.isDigit(ch)) {
-                num = num * 10 + (ch - '0');
-            } else if (ch == '+') {
-                stack.add(num * sign); // Add the current number to the stack
-                num = 0;
-                sign = 1;
-            } else if (ch == '-') {
-                stack.add(num * sign); // Add the current number to the stack
-                num = 0;
-                sign = -1;
+        for (String part : partsList) {
+            stack.push(part);
+        }
+
+        while (stack.size() > 1) {
+            int first = Integer.parseInt(stack.pop());
+            String op = stack.pop();
+            int second = Integer.parseInt(stack.pop());
+
+            int result;
+            switch (op) {
+                case "+": result = first + second; break;
+                case "-": result = first - second; break;
+                default:
+                    System.out.println("Unknown operation " + op);
+                    return;
             }
+
+            stack.push("" + result);
         }
 
-        stack.add(num * sign); // Add the last number to the stack
-
-        int result = 0;
-        while (!stack.isEmpty()) {
-            result += stack.pop(); // Pop and add the values from the stack
-        }
-
-        System.out.println (result);
+        System.out.println(stack.peek());
     }
 }
+
