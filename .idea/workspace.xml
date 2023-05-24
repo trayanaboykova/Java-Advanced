@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P01_ReverseNumbersWithAStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P01_ReverseNumbersWithAStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P02_BasicStackOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P02_BasicStackOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P03_MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P03_MaximumElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P04_BasicQueueOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P04_BasicQueueOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P05_BalancedParantheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P05_BalancedParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P06_RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P06_RecursiveFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P07_SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P07_SimpleTextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P08_InfixToPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P08_InfixToPostfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P04_MatchingBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P04_MatchingBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P05_PrinterQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P05_PrinterQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P06_HotPotato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P06_HotPotato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P07_MathPotato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P07_MathPotato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P08_BrowserHistoryUpgrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P08_BrowserHistoryUpgrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +156,7 @@
       <workItem from="1684326161079" duration="2363000" />
       <workItem from="1684396107656" duration="2889000" />
       <workItem from="1684751810857" duration="1673000" />
-      <workItem from="1684826959210" duration="14764000" />
+      <workItem from="1684826959210" duration="16087000" />
     </task>
     <servers />
   </component>
