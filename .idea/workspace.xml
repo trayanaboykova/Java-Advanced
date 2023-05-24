@@ -142,7 +142,7 @@
       <workItem from="1684326161079" duration="2363000" />
       <workItem from="1684396107656" duration="2889000" />
       <workItem from="1684751810857" duration="1673000" />
-      <workItem from="1684826959210" duration="19216000" />
+      <workItem from="1684826959210" duration="20288000" />
     </task>
     <servers />
   </component>
@@ -175,11 +175,6 @@
           <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P03_DecimalToBinary.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P04_MatchingBrackets.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
