@@ -22,4 +22,3 @@ public class P04_MatchingBrackets {
         }
     }
 }
-    
