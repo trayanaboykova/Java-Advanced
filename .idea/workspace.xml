@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P07_SimpleTextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P07_SimpleTextEditor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +56,13 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P08_BrowserHistoryUpgrade">
-    <configuration name="P04_MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P04_MatchingBrackets" />
+  <component name="RunManager" selected="Application.P07_SimpleTextEditor">
+    <configuration name="P02_BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P02_BasicStackOperations" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_PrinterQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P05_PrinterQueue" />
+    <configuration name="P03_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P03_MaximumElement" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_HotPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P06_HotPotato" />
+    <configuration name="P04_BasicQueueOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P04_BasicQueueOperations" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_MathPotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P07_MathPotato" />
+    <configuration name="P05_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P05_BalancedParentheses" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_BrowserHistoryUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P08_BrowserHistoryUpgrade" />
+    <configuration name="P07_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P07_SimpleTextEditor" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P08_BrowserHistoryUpgrade" />
-        <item itemvalue="Application.P07_MathPotato" />
-        <item itemvalue="Application.P06_HotPotato" />
-        <item itemvalue="Application.P05_PrinterQueue" />
-        <item itemvalue="Application.P04_MatchingBrackets" />
+        <item itemvalue="Application.P07_SimpleTextEditor" />
+        <item itemvalue="Application.P05_BalancedParentheses" />
+        <item itemvalue="Application.P04_BasicQueueOperations" />
+        <item itemvalue="Application.P03_MaximumElement" />
+        <item itemvalue="Application.P02_BasicStackOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,7 @@
       <workItem from="1684396107656" duration="2889000" />
       <workItem from="1684751810857" duration="1673000" />
       <workItem from="1684826959210" duration="20665000" />
-      <workItem from="1685002039717" duration="6657000" />
+      <workItem from="1685002039717" duration="12920000" />
     </task>
     <servers />
   </component>
