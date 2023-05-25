@@ -9,7 +9,10 @@ public class P07_SimpleTextEditor {
         int n = Integer.parseInt(scanner.nextLine()); //брой команди
         StringBuilder currentText = new StringBuilder();
         ArrayDeque<String> textStack = new ArrayDeque<>();
-
+        //• "1 {string}" - appends [string] to the end of the text.
+        //• "2 {count}" - erases the last [count] elements from the text.
+        //• "3 {index}" - returns the element at position [index] from the text.
+        //• "4" - undoes the last not-undone command of type 1 or 2 and returns the text to the state before that operation.
         for (int commandNumber = 1; commandNumber <= n; commandNumber++) {
             String command = scanner.nextLine(); //текст на команда
             if (command.startsWith("1")) {
