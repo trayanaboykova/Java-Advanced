@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P01_FillTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P02_MatrixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P03_DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P04_MaximumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P05_MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P01_CompareMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P02_PositionsOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P03_IntersectionOfTwoMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P04_SumMatrixElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P05_MaximumSumOf2x2Submatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P06_PrintDiagonalsOfSquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P08_WrongMeasurements.java" afterDir="false" />
-    </list>
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +144,7 @@
       <workItem from="1685002039717" duration="15435000" />
       <workItem from="1685108953827" duration="3404000" />
       <workItem from="1685193865930" duration="4527000" />
-      <workItem from="1685271841356" duration="379000" />
+      <workItem from="1685271841356" duration="743000" />
     </task>
     <servers />
   </component>
