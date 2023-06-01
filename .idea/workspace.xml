@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P03_IntersectionOfTwoMatrices">
+  <component name="RunManager" selected="Application.P04_SumMatrixElements">
     <configuration name="P01_CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P01_CompareMatrices" />
       <module name="JavaAdvanced" />
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P08_InfixToPostfix" />
+    <configuration name="P04_SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P04_SumMatrixElements" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P04_SumMatrixElements" />
         <item itemvalue="Application.P03_IntersectionOfTwoMatrices" />
         <item itemvalue="Application.P02_PositionsOf" />
         <item itemvalue="Application.P01_CompareMatrices" />
         <item itemvalue="Application.P09_PoisonousPlants" />
-        <item itemvalue="Application.P08_InfixToPostfix" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +147,7 @@
       <workItem from="1685108953827" duration="3404000" />
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
-      <workItem from="1685600077180" duration="11457000" />
+      <workItem from="1685600077180" duration="13067000" />
     </task>
     <servers />
   </component>
