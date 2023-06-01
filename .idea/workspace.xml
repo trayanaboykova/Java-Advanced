@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +55,13 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P09_PoisonousPlants">
-    <configuration name="P04_BasicQueueOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P04_BasicQueueOperations" />
+  <component name="RunManager" selected="Application.P01_CompareMatrices">
+    <configuration name="P01_CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P01_CompareMatrices" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_CompareMatrices" />
         <item itemvalue="Application.P09_PoisonousPlants" />
         <item itemvalue="Application.P08_InfixToPostfix" />
         <item itemvalue="Application.P07_SimpleTextEditor" />
         <item itemvalue="Application.P05_BalancedParentheses" />
-        <item itemvalue="Application.P04_BasicQueueOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1685108953827" duration="3404000" />
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
-      <workItem from="1685600077180" duration="3707000" />
+      <workItem from="1685600077180" duration="6483000" />
     </task>
     <servers />
   </component>
@@ -185,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P06_HotPotato.java</url>
           <line>8</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P01_CompareMatrices.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
