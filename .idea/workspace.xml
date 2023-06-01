@@ -55,7 +55,7 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P01_CompareMatrices">
+  <component name="RunManager" selected="Application.P03_IntersectionOfTwoMatrices">
     <configuration name="P01_CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P01_CompareMatrices" />
       <module name="JavaAdvanced" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P05_BalancedParentheses" />
+    <configuration name="P02_PositionsOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P02_PositionsOf" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P07_SimpleTextEditor" />
+    <configuration name="P03_IntersectionOfTwoMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P03_IntersectionOfTwoMatrices" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03_IntersectionOfTwoMatrices" />
+        <item itemvalue="Application.P02_PositionsOf" />
         <item itemvalue="Application.P01_CompareMatrices" />
         <item itemvalue="Application.P09_PoisonousPlants" />
         <item itemvalue="Application.P08_InfixToPostfix" />
-        <item itemvalue="Application.P07_SimpleTextEditor" />
-        <item itemvalue="Application.P05_BalancedParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1685108953827" duration="3404000" />
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
-      <workItem from="1685600077180" duration="6483000" />
+      <workItem from="1685600077180" duration="10413000" />
     </task>
     <servers />
   </component>
@@ -187,9 +187,14 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P01_CompareMatrices.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P03_IntersectionOfTwoMatrices.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P03_IntersectionOfTwoMatrices.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
