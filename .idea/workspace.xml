@@ -147,7 +147,7 @@
       <workItem from="1685108953827" duration="3404000" />
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
-      <workItem from="1685600077180" duration="10413000" />
+      <workItem from="1685600077180" duration="11143000" />
     </task>
     <servers />
   </component>
@@ -195,6 +195,11 @@
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P03_IntersectionOfTwoMatrices.java</url>
           <line>45</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P03_IntersectionOfTwoMatrices.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
