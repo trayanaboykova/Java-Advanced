@@ -43,14 +43,7 @@ public class P04_MaximumSum {
 
     }
 
-    private static void printMatrix(String[][] matrix) {
-        for (int row = 0; row < matrix.length ; row++) {
-            for (int col = 0; col < matrix[row].length; col++) {
-                System.out.print(matrix[row][col] + " ");
-            }
-            System.out.println();
-        }
-    }
+   
 
     public static void fillMatrixType1(Scanner scanner, int[][] matrix, int rows, int cols) {
         for (int row = 0; row < rows; row++) {
