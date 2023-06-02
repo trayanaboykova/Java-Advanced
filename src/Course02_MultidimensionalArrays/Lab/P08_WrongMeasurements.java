@@ -67,10 +67,6 @@ public class P08_WrongMeasurements {
         return row >= 0 && row < matrix.length && col >= 0 && col < matrix[row].length;
     }
 
- /*   private static boolean isIndexOutOfBounds(int[][] matrix, int row, int col) {
-
-        return !isIndexInBounds(matrix, row, col);
-    }*/
 
     private static int[][] readMatrix(Scanner scanner, int rows) {
 
