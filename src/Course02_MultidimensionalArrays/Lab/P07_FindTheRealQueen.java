@@ -32,6 +32,29 @@ public class P07_FindTheRealQueen {
         return null;
     }
 
+    private static boolean checksUpDown(int queenRowPosition, int queenColPosition, char[][] matrix) {
+
+        //Checks for another queen on the Up/Down path by rows, using same column
+        for (int row = 0; row < matrix.length; row++) {
+            if (row == queenRowPosition) {
+                continue;
+            }
+            if (matrix[row][queenColPosition] == 'q') {
+                return false;
+            }
+        }
+        //Checks for another queen on the Left/Right path by columns, using same row
+        for (int col = 0; col < matrix.length; col++) {
+            if (col == queenColPosition) {
+                continue;
+            }
+            if (matrix[queenRowPosition][col] == 'q') {
+                return false;
+            }
+        }
+
+        return true;
+    }
     private static boolean checkDiagonals(int queenRowPosition, int queenColPosition, char[][] matrix) {
 
         //Checks for another queen on the first diagonal
@@ -69,29 +92,6 @@ public class P07_FindTheRealQueen {
         return true;
     }
 
-    private static boolean checksUpDown(int queenRowPosition, int queenColPosition, char[][] matrix) {
-
-        //Checks for another queen on the Up/Down path by rows, using same column
-        for (int row = 0; row < matrix.length; row++) {
-            if (row == queenRowPosition) {
-                continue;
-            }
-            if (matrix[row][queenColPosition] == 'q') {
-                return false;
-            }
-        }
-        //Checks for another queen on the Left/Right path by columns, using same row
-        for (int col = 0; col < matrix.length; col++) {
-            if (col == queenColPosition) {
-                continue;
-            }
-            if (matrix[queenRowPosition][col] == 'q') {
-                return false;
-            }
-        }
-
-        return true;
-    }
 
     private static char[][] readMatrix(Scanner scanner) {
 
