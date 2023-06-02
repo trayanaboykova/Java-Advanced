@@ -26,12 +26,15 @@ public class P01_FillTheMatrix {
         printMatrix(matrix);
     }
 
-    private static void printMatrix(int[][] matrix) {
-        for (int row = 0; row < matrix.length; row++) {
-            for (int col = 0; col < matrix.length; col++) {
-                System.out.print(matrix[row][col] + " ");
+
+    private static void fillMatrixPatternA(int [][] matrix) {
+        int startNumber = 1;
+        //бр. редове = бр. колони -> matrix.length
+        for (int col = 0; col < matrix.length; col++) {
+            for (int row = 0; row < matrix.length; row++) {
+                matrix[row][col] = startNumber;
+                startNumber++;
             }
-            System.out.println(); //свали курсора на следващия ред
         }
     }
 
@@ -56,15 +59,12 @@ public class P01_FillTheMatrix {
             }
         }
     }
-
-    private static void fillMatrixPatternA(int [][] matrix) {
-        int startNumber = 1;
-        //бр. редове = бр. колони -> matrix.length
-        for (int col = 0; col < matrix.length; col++) {
-            for (int row = 0; row < matrix.length; row++) {
-                matrix[row][col] = startNumber;
-                startNumber++;
+    private static void printMatrix(int[][] matrix) {
+        for (int row = 0; row < matrix.length; row++) {
+            for (int col = 0; col < matrix.length; col++) {
+                System.out.print(matrix[row][col] + " ");
             }
+            System.out.println(); //свали курсора на следващия ред
         }
     }
 }
