@@ -55,20 +55,7 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P07_FindTheRealQueen">
-    <configuration name="P03_IntersectionOfTwoMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P03_IntersectionOfTwoMatrices" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P08_WrongMeasurements">
     <configuration name="P04_SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P04_SumMatrixElements" />
       <module name="JavaAdvanced" />
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P08_WrongMeasurements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P08_WrongMeasurements" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P08_WrongMeasurements" />
         <item itemvalue="Application.P07_FindTheRealQueen" />
         <item itemvalue="Application.P06_PrintDiagonalsOfSquareMatrix" />
         <item itemvalue="Application.P05_MaximumSumOf2x2Submatrix" />
         <item itemvalue="Application.P04_SumMatrixElements" />
-        <item itemvalue="Application.P03_IntersectionOfTwoMatrices" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
       <workItem from="1685600077180" duration="16394000" />
-      <workItem from="1685694318625" duration="7945000" />
+      <workItem from="1685694318625" duration="12095000" />
     </task>
     <servers />
   </component>
