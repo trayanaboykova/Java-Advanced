@@ -148,7 +148,7 @@
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
       <workItem from="1685600077180" duration="16394000" />
-      <workItem from="1685694318625" duration="5476000" />
+      <workItem from="1685694318625" duration="7945000" />
     </task>
     <servers />
   </component>
@@ -196,31 +196,6 @@
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P06_PrintDiagonalsOfSquareMatrix.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java</url>
-          <line>74</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P07_FindTheRealQueen.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
