@@ -32,9 +32,7 @@ public class P06_PrintDiagonalsOfSquareMatrix {
             System.out.print(matrix[row][col] + " ");
         }
 
-        for (int i = 0; i < size; i++) {
 
-        }
 
     }
 }
