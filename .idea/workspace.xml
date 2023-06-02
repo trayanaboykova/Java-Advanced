@@ -148,7 +148,7 @@
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
       <workItem from="1685600077180" duration="16394000" />
-      <workItem from="1685694318625" duration="14311000" />
+      <workItem from="1685694318625" duration="14924000" />
     </task>
     <servers />
   </component>
@@ -196,26 +196,6 @@
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P06_PrintDiagonalsOfSquareMatrix.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P03_DiagonalDifference.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P03_DiagonalDifference.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P03_DiagonalDifference.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P03_DiagonalDifference.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
