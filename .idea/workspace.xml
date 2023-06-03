@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P08_TheHeiganDance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P08_TheHeiganDance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P05_MatrixShuffling">
+  <component name="RunManager" selected="Application.P08_TheHeiganDance">
     <configuration name="P01_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P01_FillTheMatrix" />
       <module name="JavaAdvanced" />
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_FindTheRealQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P07_FindTheRealQueen" />
+    <configuration name="P08_TheHeiganDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P08_TheHeiganDance" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P08_TheHeiganDance" />
         <item itemvalue="Application.P05_MatrixShuffling" />
         <item itemvalue="Application.P03_DiagonalDifference" />
         <item itemvalue="Application.P01_FillTheMatrix" />
         <item itemvalue="Application.P08_WrongMeasurements" />
-        <item itemvalue="Application.P07_FindTheRealQueen" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +149,7 @@
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
       <workItem from="1685600077180" duration="16394000" />
-      <workItem from="1685694318625" duration="20896000" />
+      <workItem from="1685694318625" duration="23540000" />
     </task>
     <servers />
   </component>
@@ -196,6 +197,21 @@
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P06_PrintDiagonalsOfSquareMatrix.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P08_TheHeiganDance.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P08_TheHeiganDance.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P08_TheHeiganDance.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
