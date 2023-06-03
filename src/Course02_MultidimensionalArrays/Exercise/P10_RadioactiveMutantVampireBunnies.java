@@ -112,39 +112,39 @@ public class P10_RadioactiveMutantVampireBunnies {
                 for (int col = 0; col < matrix[row].length; col++) {
                     if(matrix[row][col].equals("B")){
                         //UP
-                        if(row-1 >= 0){
-                            if (matrix[row-1][col].equals("P")){
+                        if(row - 1 >= 0){
+                            if (matrix[row - 1][col].equals("P")){
                                 isDead = true;
-                                matrix[row-1][col] = "Bn";
-                            } else if (matrix[row-1][col].equals(".")){
-                                matrix[row-1][col] = "Bn";
+                                matrix[row - 1][col] = "Bn";
+                            } else if (matrix[row - 1][col].equals(".")){
+                                matrix[row - 1][col] = "Bn";
                             }
                         }
                         //DOWN
-                        if (row+1 < matrix.length){
-                            if(matrix[row+1][col].equals("P")){
+                        if (row + 1 < matrix.length){
+                            if(matrix[row + 1][col].equals("P")){
                                 isDead = true;
-                                matrix[row+1][col] = "Bn";
-                            } else if (matrix[row+1][col].equals(".")){
-                                matrix[row+1][col] = "Bn";
+                                matrix[row + 1][col] = "Bn";
+                            } else if (matrix[row + 1][col].equals(".")){
+                                matrix[row + 1][col] = "Bn";
                             }
                         }
                         //LEFT
-                        if (col -1 >= 0){
-                            if (matrix[row][col-1].equals("P")){
+                        if (col - 1 >= 0){
+                            if (matrix[row][col - 1].equals("P")){
                                 isDead = true;
-                                matrix[row][col-1] = "Bn";
-                            } else if (matrix[row][col-1].equals(".")) {
-                                matrix[row][col-1] = "Bn";
+                                matrix[row][col - 1] = "Bn";
+                            } else if (matrix[row][col - 1].equals(".")) {
+                                matrix[row][col - 1] = "Bn";
                             }
                         }
                         //RIGHT
-                        if (col +1 < matrix[row].length){
-                            if(matrix[row][col+1].equals("P")){
+                        if (col + 1 < matrix[row].length){
+                            if(matrix[row][col + 1].equals("P")){
                                 isDead = true;
-                                matrix[row][col+1] = "Bn";
-                            } else if (matrix[row][col+1].equals(".")) {
-                                matrix[row][col+1] = "Bn";
+                                matrix[row][col + 1] = "Bn";
+                            } else if (matrix[row][col + 1].equals(".")) {
+                                matrix[row][col + 1] = "Bn";
                             }
                         }
                     }
