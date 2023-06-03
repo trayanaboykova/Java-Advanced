@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class P09_ParkingSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int[] arrDim = Arrays.stream(scanner.nextLine().split("\\s+")).mapToInt(Integer::parseInt).toArray();
+        int[] arrDim = Arrays.stream(scanner.nextLine().split("\\s+"))
+                .mapToInt(Integer::parseInt).toArray();
         boolean[][] isOccupied = new boolean[arrDim[0]][arrDim[1]];
         for (int i = 0; i < isOccupied.length; i++) {
             isOccupied[i][0] = true;
@@ -27,14 +28,17 @@ public class P09_ParkingSystem {
                 isOccupied[desiredRow][desiredCol] = true;
                 hasFoundPlace = true;
             } else {
-                for (int offset = 1; offset < isOccupied[desiredRow].length && !hasFoundPlace; offset++) {
-                    if (desiredCol - offset > 0 && !isOccupied[desiredRow][desiredCol - offset]){
+                for (int offset = 1; offset < isOccupied[desiredRow].length
+                        && !hasFoundPlace; offset++) {
+                    if (desiredCol - offset > 0
+                            && !isOccupied[desiredRow][desiredCol - offset]){
                         isOccupied[desiredRow][desiredCol - offset] = true;
                         hasFoundPlace = true;
                         traveledDistance += desiredCol - offset;
                     }
 
-                    if (!hasFoundPlace && desiredCol + offset < isOccupied[desiredRow].length
+                    if (!hasFoundPlace
+                            && desiredCol + offset < isOccupied[desiredRow].length
                             && !isOccupied[desiredRow][desiredCol + offset]){
                         isOccupied[desiredRow][desiredCol + offset] = true;
                         hasFoundPlace = true;
