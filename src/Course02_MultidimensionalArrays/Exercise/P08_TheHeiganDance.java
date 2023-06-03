@@ -28,16 +28,20 @@ public class P08_TheHeiganDance {
             int targetRow = Integer.parseInt(input[1]);
             int targetCol = Integer.parseInt(input[2]);
             if (isInDamageArea(targetRow, targetCol, playerRow, playerCol)) {
-                if (!isInDamageArea(targetRow, targetCol, playerRow - 1, playerCol) && !isWall(playerRow - 1)) {
+                if (!isInDamageArea(targetRow, targetCol, playerRow - 1, playerCol)
+                        && !isWall(playerRow - 1)) {
                     playerRow--;
                     lastSpell = "";
-                } else if (!isInDamageArea(targetRow, targetCol, playerRow, playerCol + 1) && !isWall(playerCol + 1)) {
+                } else if (!isInDamageArea(targetRow, targetCol, playerRow, playerCol + 1)
+                        && !isWall(playerCol + 1)) {
                     playerCol++;
                     lastSpell = "";
-                } else if (!isInDamageArea(targetRow, targetCol, playerRow + 1, playerCol) && !isWall(playerRow + 1)) {
+                } else if (!isInDamageArea(targetRow, targetCol, playerRow + 1, playerCol)
+                        && !isWall(playerRow + 1)) {
                     playerRow++;
                     lastSpell = "";
-                } else if (!isInDamageArea(targetRow, targetCol, playerRow, playerCol - 1) && !isWall(playerCol - 1)) {
+                } else if (!isInDamageArea(targetRow, targetCol, playerRow, playerCol - 1)
+                        && !isWall(playerCol - 1)) {
                     playerCol--;
                     lastSpell = "";
                 } else {
