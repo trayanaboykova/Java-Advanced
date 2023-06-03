@@ -39,6 +39,7 @@ public class P10_RadioactiveMutantVampireBunnies {
 
             // move player
             if (cmd.equals("U")) {
+                //up
                 if (playerRow - 1 < 0) { // wins
                     hasWon = true;
                     matrix[playerRow][playerCol] = ".";
@@ -54,6 +55,7 @@ public class P10_RadioactiveMutantVampireBunnies {
                     }
                 }
             } else if (cmd.equals("D")) {
+                //down
                 if (playerRow + 1 == rows) { //wins
                     hasWon = true;
                     matrix[playerRow][playerCol] = ".";
@@ -70,6 +72,7 @@ public class P10_RadioactiveMutantVampireBunnies {
                 }
 
             } else if (cmd.equals("L")) {
+                //left
                 if (playerCol - 1 < 0) { //wins
                     hasWon = true;
                     matrix[playerRow][playerCol] = ".";
@@ -86,6 +89,7 @@ public class P10_RadioactiveMutantVampireBunnies {
                 }
 
             } else if (cmd.equals("R")) {
+                //right
                 if (playerCol + 1 == cols) { //wins
                     hasWon = true;
                     matrix[playerRow][playerCol] = ".";
