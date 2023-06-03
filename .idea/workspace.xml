@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +148,7 @@
       <workItem from="1685193865930" duration="4527000" />
       <workItem from="1685271841356" duration="2323000" />
       <workItem from="1685600077180" duration="16394000" />
-      <workItem from="1685694318625" duration="29569000" />
+      <workItem from="1685694318625" duration="29942000" />
     </task>
     <servers />
   </component>
@@ -196,21 +196,6 @@
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P06_PrintDiagonalsOfSquareMatrix.java</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java</url>
-          <line>169</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P10_RadioactiveMutantVampireBunnies.java</url>
-          <line>180</line>
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
