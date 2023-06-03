@@ -7,7 +7,8 @@ public class P10_RadioactiveMutantVampireBunnies {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int[] dimensions = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+        int[] dimensions = Arrays.stream(scanner.nextLine().split(" "))
+                .mapToInt(Integer::parseInt).toArray();
         int rows = dimensions[0];
         int cols = dimensions[1];
 
