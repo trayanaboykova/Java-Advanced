@@ -31,7 +31,7 @@ public class P11_ReverseMatrixDiagonals {
             }
             System.out.println();
             col--;
-            if(col == -1){
+            if(col == - 1){
                 col = 0;
                 row--;
             }
