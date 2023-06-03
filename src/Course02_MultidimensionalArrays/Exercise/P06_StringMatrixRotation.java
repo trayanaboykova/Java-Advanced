@@ -15,11 +15,11 @@ public class P06_StringMatrixRotation {
         int maxLength = 0;
         while (true) {
             String line = scanner.nextLine();
-            if(line.equals("END")){
+            if (line.equals("END")) {
                 break;
             }
             linesForMatrix.add(line);
-            if(line.length() > maxLength){
+            if (line.length() > maxLength) {
                 maxLength = line.length();
             }
         }
@@ -27,10 +27,10 @@ public class P06_StringMatrixRotation {
         int rows = linesForMatrix.size();
         int cols = maxLength;
 
-        char [][] matrix = new char[rows][cols];
+        char[][] matrix = new char[rows][cols];
 
-        for (int row = 0; row < rows ; row++) {
-            for (int col = 0; col < cols ; col++) {
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
                 if (col < linesForMatrix.get(row).length()) {
                     matrix[row][col] = linesForMatrix.get(row).charAt(col);
                 } else {
@@ -46,52 +46,35 @@ public class P06_StringMatrixRotation {
 
     private static void rotate(int angleRotation, int rows, int cols, char[][] matrix) {
         if (angleRotation == 90) {
-            for (int col = 0; col < cols ; col++) {
-                for (int row = rows - 1; row >= 0 ; row--) {
+            for (int col = 0; col < cols; col++) {
+                for (int row = rows - 1; row >= 0; row--) {
                     System.out.print(matrix[row][col]);
                 }
                 System.out.println();
             }
 
         } else if (angleRotation == 180) {
-            for (int row = rows - 1; row >= 0 ; row--) {
-                for (int col = cols - 1; col >= 0 ; col--) {
+            for (int row = rows - 1; row >= 0; row--) {
+                for (int col = cols - 1; col >= 0; col--) {
                     System.out.print(matrix[row][col]);
                 }
                 System.out.println();
             }
         } else if (angleRotation == 270) {
-            for (int col = cols - 1; col >= 0 ; col--) {
-                for (int row = 0; row < rows ; row++) {
+            for (int col = cols - 1; col >= 0; col--) {
+                for (int row = 0; row < rows; row++) {
                     System.out.print(matrix[row][col]);
 
                 }
                 System.out.println();
             }
         } else {
-            for (int row = 0; row < rows ; row++) {
-                for (int col = 0; col < cols ; col++) {
+            for (int row = 0; row < rows; row++) {
+                for (int col = 0; col < cols; col++) {
                     System.out.print(matrix[row][col]);
                 }
                 System.out.println();
             }
         }
     }
-
-    private static void printMatrix(char[][] matrix) {
-        for (int row = 0; row < matrix.length ; row++) {
-            for (int col = 0; col < matrix[row].length; col++) {
-                System.out.print(matrix[row][col] + " ");
-            }
-            System.out.println();
-        }
-    }
-
-    public static void fillMatrixType1(Scanner scanner, int[][] matrix, int rows, int cols) {
-        for (int row = 0; row < rows; row++) {
-            matrix[row] = Arrays.stream(scanner.nextLine().split("\\s+"))
-                    .mapToInt(Integer::parseInt).toArray();
-        }
-    }
 }
-
