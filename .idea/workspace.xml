@@ -56,7 +56,7 @@
       <recent name="Course01_StacksAndQueues.Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P08_TheHeiganDance">
+  <component name="RunManager" selected="Application.P09_ParkingSystem">
     <configuration name="P01_FillTheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P01_FillTheMatrix" />
       <module name="JavaAdvanced" />
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_WrongMeasurements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P08_WrongMeasurements" />
+    <configuration name="P09_ParkingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P09_ParkingSystem" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P09_ParkingSystem" />
         <item itemvalue="Application.P08_TheHeiganDance" />
         <item itemvalue="Application.P05_MatrixShuffling" />
         <item itemvalue="Application.P03_DiagonalDifference" />
         <item itemvalue="Application.P01_FillTheMatrix" />
-        <item itemvalue="Application.P08_WrongMeasurements" />
       </list>
     </recent_temporary>
   </component>
