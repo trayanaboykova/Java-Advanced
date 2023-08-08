@@ -5,122 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P01_UniqueUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P02_SetsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P03_PeriodicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P04_CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P05_Phonebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P06_FixEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P07_HandsOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P08_UserLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P09_PopulationCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P10_LogsAggregator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P11_LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P12_SerbianUnleashed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P13_DragonArmy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P01_ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P02_SoftUniParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P03_WarNumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P04_CountRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P05_AverageStudentsGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P06_ProductShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P07_CitiesByContinentAndCountry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P08_AcademyGraduation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P09_Largest3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P01_SumLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P02_SumBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P03_AllCapitals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P04_CountCharacterTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P05_LineNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P06_WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P07_MergeTwoFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Exercise/P08_GetFolderSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/inputLineNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/inputOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/inputTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/output-merge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/output-task-4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/outputMerge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/output_line_numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/Exercises Resources/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/inputLineNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/inputOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/inputTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/ExerciseResources/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P01_ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P02_WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P03_CopyBites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P04_ExtractIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P05_WriteEveryThirdLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P06_SortLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P07_ListFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/Lab/P08_NestedFolders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/02.WriteToFileOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/03.CopyBytesOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/04.ExtractIntegersOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/05.WriteEveryThirdLineOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/06.SortLinesOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Files-and-Streams/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Files-and-Streams/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Files-and-Streams/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Files-and-Streams/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/Serialization/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/Streams-and-Files/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/Files-and-Streams/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course04_StreamsFilesAndDirectories/LabResources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P01_ConsumerPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P02_KnightsOfHonor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P03_CustomMinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P04_AppliedArithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P05_ReverseAndExclude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P06_PredicateForNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P07_FindTheSmallestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P08_CustomComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P09_ListOfPredicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P10_PredicateParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Exercise/P11_ThePartyReservationFilterModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P01_SortEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P02_SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P03_CountUppercaseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P04_AddVAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P05_FilterByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course05_FunctionalProgramming/Lab/P06_FindEvensOrOdds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -282,6 +166,7 @@
       <workItem from="1689247551929" duration="7478000" />
       <workItem from="1689682345741" duration="5750000" />
       <workItem from="1689769251633" duration="642000" />
+      <workItem from="1691317262107" duration="748000" />
     </task>
     <servers />
   </component>
