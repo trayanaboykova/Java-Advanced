@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exam/P01_MonsterExtermination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P02_DeliveryBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingSystem/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingSystem/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +71,40 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P01_SortEvenNumbers">
+  <component name="RunManager" selected="Application.P02_DeliveryBoy">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vendingSystem.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vendingSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_MonsterExtermination (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P01_MonsterExtermination" />
+      <module name="JavaAdvanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P01_MonsterExtermination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.P01_MonsterExtermination" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P01_SortEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course05_FunctionalProgramming.Lab.P01_SortEvenNumbers" />
       <module name="JavaAdvanced" />
@@ -80,51 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_LineNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P05_LineNumbers" />
+    <configuration name="P02_DeliveryBoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.P02_DeliveryBoy" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P06_WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P06_WordCount" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P07_MergeTwoFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P07_MergeTwoFiles" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P08_GetFolderSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P08_GetFolderSize" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
+          <option name="PATTERN" value="Exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_DeliveryBoy" />
+        <item itemvalue="Application.P01_MonsterExtermination" />
+        <item itemvalue="Application.P01_MonsterExtermination (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.P01_SortEvenNumbers" />
-        <item itemvalue="Application.P08_GetFolderSize" />
-        <item itemvalue="Application.P07_MergeTwoFiles" />
-        <item itemvalue="Application.P06_WordCount" />
-        <item itemvalue="Application.P05_LineNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +166,7 @@
       <workItem from="1689682345741" duration="5750000" />
       <workItem from="1689769251633" duration="642000" />
       <workItem from="1691317262107" duration="748000" />
+      <workItem from="1691560053319" duration="7538000" />
     </task>
     <servers />
   </component>
