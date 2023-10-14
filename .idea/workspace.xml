@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P04_BasicQueueOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P04_BasicQueueOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +67,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P02_DeliveryBoy">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vendingSystem.Main" />
+  <component name="RunManager" selected="Application.P04_BasicQueueOperations">
+    <configuration name="P01_ReverseNumbersWithAStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P01_ReverseNumbersWithAStack" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vendingSystem.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_MonsterExtermination (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P01_MonsterExtermination" />
-      <module name="JavaAdvanced" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P01_MonsterExtermination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.P01_MonsterExtermination" />
+    <configuration name="P02_BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P02_BasicStackOperations" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_SortEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_FunctionalProgramming.Lab.P01_SortEvenNumbers" />
+    <configuration name="P03_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P03_MaximumElement" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_FunctionalProgramming.Lab.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_DeliveryBoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.P02_DeliveryBoy" />
+    <configuration name="P04_BasicQueueOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P04_BasicQueueOperations" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08_BrowserHistoryUpgrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Lab.P08_BrowserHistoryUpgrade" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course01_StacksAndQueues.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P02_DeliveryBoy" />
-        <item itemvalue="Application.P01_MonsterExtermination" />
-        <item itemvalue="Application.P01_MonsterExtermination (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.P01_SortEvenNumbers" />
+        <item itemvalue="Application.P04_BasicQueueOperations" />
+        <item itemvalue="Application.P03_MaximumElement" />
+        <item itemvalue="Application.P02_BasicStackOperations" />
+        <item itemvalue="Application.P01_ReverseNumbersWithAStack" />
+        <item itemvalue="Application.P08_BrowserHistoryUpgrade" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +172,8 @@
       <workItem from="1694510007652" duration="606000" />
       <workItem from="1694510983961" duration="28000" />
       <workItem from="1695036651406" duration="14000" />
+      <workItem from="1697117342356" duration="603000" />
+      <workItem from="1697276496917" duration="11484000" />
     </task>
     <servers />
   </component>
@@ -188,21 +197,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P02_SimpleCalculator2.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P03_DecimalToBinary.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Lab/P06_HotPotato.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Lab/P05_MaximumSumOf2x2Submatrix.java</url>
           <line>8</line>
