@@ -8,7 +8,7 @@ public class P04_BasicQueueOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(); //брой на елементите, които трябва да добавя -> add
-        int s = scanner.nextInt(); //брой на елементите, които тярбва да махна
+        int s = scanner.nextInt(); //брой на елементите, които трябва да махна
         int x = scanner.nextInt(); //число, което проверявам дали го има
 
         //нов опашка
