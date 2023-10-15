@@ -66,46 +66,7 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P06_RecursiveFibonacci">
-    <configuration name="P02_BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P02_BasicStackOperations" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03_MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P03_MaximumElement" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P04_BasicQueueOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P04_BasicQueueOperations" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P09_PoisonousPlants">
     <configuration name="P05_BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P05_BalancedParentheses" />
       <module name="JavaAdvanced" />
@@ -132,13 +93,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P07_SimpleTextEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P07_SimpleTextEditor" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P08_InfixToPostfix" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P09_PoisonousPlants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course01_StacksAndQueues.Exercise.P09_PoisonousPlants" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course01_StacksAndQueues.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P09_PoisonousPlants" />
+        <item itemvalue="Application.P08_InfixToPostfix" />
+        <item itemvalue="Application.P07_SimpleTextEditor" />
         <item itemvalue="Application.P06_RecursiveFibonacci" />
         <item itemvalue="Application.P05_BalancedParentheses" />
-        <item itemvalue="Application.P04_BasicQueueOperations" />
-        <item itemvalue="Application.P03_MaximumElement" />
-        <item itemvalue="Application.P02_BasicStackOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,7 @@
       <workItem from="1694510983961" duration="28000" />
       <workItem from="1695036651406" duration="14000" />
       <workItem from="1697117342356" duration="603000" />
-      <workItem from="1697276496917" duration="12146000" />
+      <workItem from="1697276496917" duration="20729000" />
     </task>
     <servers />
   </component>
@@ -210,6 +210,11 @@
           <url>file://$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P11_LegendaryFarming.java</url>
           <line>9</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
