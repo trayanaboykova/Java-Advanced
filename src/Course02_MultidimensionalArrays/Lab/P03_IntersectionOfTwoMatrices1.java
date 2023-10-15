@@ -2,7 +2,7 @@ package Course02_MultidimensionalArrays.Lab;
 
 import java.util.Scanner;
 
-public class P03_IntersectionOfTwoMatrices {
+public class P03_IntersectionOfTwoMatrices1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -26,11 +26,14 @@ public class P03_IntersectionOfTwoMatrices {
     }
 
     private static char[][] compareArrays(char[][] firstArray, char[][] secondArray) {
+        int numRows = firstArray.length;
+        int numCols = findMaxColumns(firstArray);
 
-        char[][] output = new char[firstArray.length][firstArray[0].length];
-        for (int row = 0; row < firstArray.length; row++) {
-            for (int col = 0; col < firstArray[row].length; col++) {
-                if (firstArray[row][col] == secondArray[row][col]) {
+        char[][] output = new char[numRows][numCols];
+        for (int row = 0; row < numRows; row++) {
+            for (int col = 0; col < numCols; col++) {
+                if (col < firstArray[row].length && col < secondArray[row].length
+                        && firstArray[row][col] == secondArray[row][col]) {
                     output[row][col] = firstArray[row][col];
                 } else {
                     output[row][col] = '*';
@@ -41,12 +44,20 @@ public class P03_IntersectionOfTwoMatrices {
         return output;
     }
 
-    private static void initializeArray(Scanner scanner, char[][] array) {
+    private static int findMaxColumns(char[][] array) {
+        int maxColumns = 0;
+        for (char[] row : array) {
+            maxColumns = Math.max(maxColumns, row.length);
+        }
+        return maxColumns;
+    }
 
+    private static void initializeArray(Scanner scanner, char[][] array) {
         for (int row = 0; row < array.length; row++) {
             char[] current = scanner.nextLine().replaceAll(" ", "").toCharArray();
             array[row] = current;
         }
     }
 }
+
 
