@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P11_ReverseMatrixDiagonals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P11_ReverseMatrixDiagonals.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,13 +67,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P07_FindTheRealQueen">
-    <configuration name="P04_SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P04_SumMatrixElements" />
+  <component name="RunManager" selected="Application.P11_ReverseMatrixDiagonals">
+    <configuration name="P07_Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P07_Crossfire" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_MaximumSumOf2x2Submatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P05_MaximumSumOf2x2Submatrix" />
+    <configuration name="P08_TheHeiganDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P08_TheHeiganDance" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_PrintDiagonalsOfSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P06_PrintDiagonalsOfSquareMatrix" />
+    <configuration name="P09_ParkingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P09_ParkingSystem" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_FindTheRealQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P07_FindTheRealQueen" />
+    <configuration name="P10_RadioactiveMutantVampireBunnies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P10_RadioactiveMutantVampireBunnies" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_WrongMeasurements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Lab.P08_WrongMeasurements" />
+    <configuration name="P11_ReverseMatrixDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P11_ReverseMatrixDiagonals" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Lab.*" />
+          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P07_FindTheRealQueen" />
-        <item itemvalue="Application.P08_WrongMeasurements" />
-        <item itemvalue="Application.P06_PrintDiagonalsOfSquareMatrix" />
-        <item itemvalue="Application.P05_MaximumSumOf2x2Submatrix" />
-        <item itemvalue="Application.P04_SumMatrixElements" />
+        <item itemvalue="Application.P11_ReverseMatrixDiagonals" />
+        <item itemvalue="Application.P10_RadioactiveMutantVampireBunnies" />
+        <item itemvalue="Application.P09_ParkingSystem" />
+        <item itemvalue="Application.P08_TheHeiganDance" />
+        <item itemvalue="Application.P07_Crossfire" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +174,7 @@
       <workItem from="1695036651406" duration="14000" />
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
+      <workItem from="1697437649683" duration="20006000" />
     </task>
     <servers />
   </component>
