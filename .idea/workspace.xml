@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P11_ReverseMatrixDiagonals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course02_MultidimensionalArrays/Exercise/P11_ReverseMatrixDiagonals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +66,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P11_ReverseMatrixDiagonals">
-    <configuration name="P07_Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P07_Crossfire" />
+  <component name="RunManager" selected="Application.P09_Largest3Numbers">
+    <configuration name="P05_AverageStudentsGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P05_AverageStudentsGrades" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_TheHeiganDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P08_TheHeiganDance" />
+    <configuration name="P06_ProductShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P06_ProductShop" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09_ParkingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P09_ParkingSystem" />
+    <configuration name="P07_CitiesByContinentAndCountry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P07_CitiesByContinentAndCountry" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P10_RadioactiveMutantVampireBunnies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P10_RadioactiveMutantVampireBunnies" />
+    <configuration name="P08_AcademyGraduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P08_AcademyGraduation" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11_ReverseMatrixDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course02_MultidimensionalArrays.Exercise.P11_ReverseMatrixDiagonals" />
+    <configuration name="P09_Largest3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P09_Largest3Numbers" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course02_MultidimensionalArrays.Exercise.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P11_ReverseMatrixDiagonals" />
-        <item itemvalue="Application.P10_RadioactiveMutantVampireBunnies" />
-        <item itemvalue="Application.P09_ParkingSystem" />
-        <item itemvalue="Application.P08_TheHeiganDance" />
-        <item itemvalue="Application.P07_Crossfire" />
+        <item itemvalue="Application.P09_Largest3Numbers" />
+        <item itemvalue="Application.P08_AcademyGraduation" />
+        <item itemvalue="Application.P07_CitiesByContinentAndCountry" />
+        <item itemvalue="Application.P06_ProductShop" />
+        <item itemvalue="Application.P05_AverageStudentsGrades" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +173,7 @@
       <workItem from="1695036651406" duration="14000" />
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
-      <workItem from="1697437649683" duration="20006000" />
+      <workItem from="1697437649683" duration="26072000" />
     </task>
     <servers />
   </component>
@@ -207,6 +206,11 @@
           <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java</url>
           <line>8</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P03_WarNumberGame.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
