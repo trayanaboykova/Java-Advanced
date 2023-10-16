@@ -37,9 +37,5 @@ public class P11_ReverseMatrixDiagonals {
             }
         }
     }
-
-    private static boolean isInbounds(int row, int col, int [][] matrix) {
-        return row < 0 || col < 0 || row > matrix.length - 1 || col > matrix[0].length - 1;
-    }
 }
 
