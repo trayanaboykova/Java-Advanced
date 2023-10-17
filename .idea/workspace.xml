@@ -66,13 +66,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P09_Largest3Numbers">
-    <configuration name="P05_AverageStudentsGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P05_AverageStudentsGrades" />
+  <component name="RunManager" selected="Application.P07_HandsOfCards">
+    <configuration name="P03_PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P03_PeriodicTable" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_ProductShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P06_ProductShop" />
+    <configuration name="P04_CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P04_CountSymbols" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_CitiesByContinentAndCountry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P07_CitiesByContinentAndCountry" />
+    <configuration name="P05_Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P05_Phonebook" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_AcademyGraduation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P08_AcademyGraduation" />
+    <configuration name="P06_FixEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P06_FixEmails" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09_Largest3Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Lab.P09_Largest3Numbers" />
+    <configuration name="P07_HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P07_HandsOfCards" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Lab.*" />
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P09_Largest3Numbers" />
-        <item itemvalue="Application.P08_AcademyGraduation" />
-        <item itemvalue="Application.P07_CitiesByContinentAndCountry" />
-        <item itemvalue="Application.P06_ProductShop" />
-        <item itemvalue="Application.P05_AverageStudentsGrades" />
+        <item itemvalue="Application.P07_HandsOfCards" />
+        <item itemvalue="Application.P06_FixEmails" />
+        <item itemvalue="Application.P05_Phonebook" />
+        <item itemvalue="Application.P04_CountSymbols" />
+        <item itemvalue="Application.P03_PeriodicTable" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="1655000" />
+      <workItem from="1697523171879" duration="4676000" />
     </task>
     <servers />
   </component>
