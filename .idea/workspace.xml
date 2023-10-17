@@ -5,33 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P03_SpeedRacing/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P03_SpeedRacing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P04_RawData/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P04_RawData/Cargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P04_RawData/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P04_RawData/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P04_RawData/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P05_CarSalesman/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P05_CarSalesman/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P05_CarSalesman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P06_PokemonTrainer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P06_PokemonTrainer/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P06_PokemonTrainer/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P07_Google/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P08_FamilyTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P08_FamilyTree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady/Cymric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady/Siamese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady/StreetExtraordinaire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +174,7 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="21752000" />
+      <workItem from="1697523171879" duration="23340000" />
     </task>
     <servers />
   </component>
