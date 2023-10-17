@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P01_GenericBox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P01_GenericBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P02_GenericBoxOfInteger/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P02_GenericBoxOfInteger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P03_GenericSwapMethodString/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P03_GenericSwapMethodString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P04_GenericSwapMethodInteger/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P04_GenericSwapMethodInteger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P05_GenericCountMethodString/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P05_GenericCountMethodString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P06_GenericCountMethodDouble/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P06_GenericCountMethodDouble/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P07_CustomList/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P07_CustomList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P10_Tuple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P10_Tuple/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P01_JarOfT/Jar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P01_JarOfT/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P02_GenericArrayCreator/ArrayCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P02_GenericArrayCreator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P03_GenericScale/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P03_GenericScale/Scale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P04_ListUtilities/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P04_ListUtilities/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +205,7 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="23340000" />
+      <workItem from="1697523171879" duration="26983000" />
     </task>
     <servers />
   </component>

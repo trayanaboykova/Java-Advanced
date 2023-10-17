@@ -1,0 +1,19 @@
+package Course07_Generics.Ex_P02_GenericBoxOfInteger;
+
+public class Box <T> {
+    private T name;
+
+    public Box(T name) {
+        this.name = name;
+    }
+
+    public T getName() {
+        return name;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s: %s", name.getClass(), name).replace("class ", "");
+    }
+}
+
