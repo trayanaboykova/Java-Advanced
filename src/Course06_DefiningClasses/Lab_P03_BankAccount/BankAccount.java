@@ -1,4 +1,4 @@
-package Course06_DefiningClasses.P03_BankAccount;
+package Course06_DefiningClasses.Lab_P03_BankAccount;
 
 public class BankAccount {
     private static double interestRate = 0.02;

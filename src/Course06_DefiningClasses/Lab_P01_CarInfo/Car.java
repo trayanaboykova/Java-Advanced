@@ -1,45 +1,13 @@
-package Course06_DefiningClasses.P02_Constructors;
+package Course06_DefiningClasses.Lab_P01_CarInfo;
 
 public class Car {
-    //полета -> характеристики
     private String brand;
     private String model;
     private int horsePower;
-
     //методи -> действия
-    //constructor -> метод, чрез който създаваме обекти
-
-    //конструктор по поздразбиране / default конструктор - вграден
-    public Car () {
-        //празен обект
-        //brand = null
-        //model = null
-        //horsePower = 0
-    }
-
-    //конструктори с параметри
-    public Car (String brand, String model, int hp) {
-        //нов празен обект
-        //brand = null
-        //model = null
-        //horsePower = 0
-        this(brand);
-        this.setModel(model);
-        this.setHorsePower(hp);
-    }
-
-    public Car (String brand) {
-        //празен обект
-        //brand = null
-        //model = null
-        //horsePower = 0
-        this.setBrand(brand);
-        this.setModel("unknown");
-        this.setHorsePower(-1);
-    }
-
 
     //getters / accessors -> методи,  които осигуряват достъп до полетата и взимат стойността в тях
+
     //1. getter на полето brand -> върна стойността, която имам срещу полето brand
     public String getBrand() {
         return this.brand;

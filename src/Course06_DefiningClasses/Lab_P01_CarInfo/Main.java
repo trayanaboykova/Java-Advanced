@@ -1,4 +1,4 @@
-package Course06_DefiningClasses.P01_CarInfo;
+package Course06_DefiningClasses.Lab_P01_CarInfo;
 
 import java.util.Scanner;
 

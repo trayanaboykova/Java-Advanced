@@ -1,4 +1,4 @@
-package Course06_DefiningClasses.P02_Constructors;
+package Course06_DefiningClasses.Lab_P02_Constructors;
 
 import java.util.Scanner;
 
