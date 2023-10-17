@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P01_GenericBox/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P01_GenericBox/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P02_GenericBoxOfInteger/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P02_GenericBoxOfInteger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P03_GenericSwapMethodString/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P03_GenericSwapMethodString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P04_GenericSwapMethodInteger/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P04_GenericSwapMethodInteger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P05_GenericCountMethodString/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P05_GenericCountMethodString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P06_GenericCountMethodDouble/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P06_GenericCountMethodDouble/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P07_CustomList/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P07_CustomList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P08_CustomListSorter/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P09_CustomListIterator/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P10_Tuple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Ex_P10_Tuple/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P01_JarOfT/Jar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P01_JarOfT/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P02_GenericArrayCreator/ArrayCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P02_GenericArrayCreator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P03_GenericScale/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P03_GenericScale/Scale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P04_ListUtilities/ListUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course07_Generics/Lab_P04_ListUtilities/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course06_DefiningClasses/Ex_P09_CatLady.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +66,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P13_DragonArmy (1)">
-    <configuration name="P10_LogsAggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P10_LogsAggregator" />
+  <component name="RunManager" selected="Application.P01_SumLines">
+    <configuration name="P01_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P01_SumLines" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_SumLines" />
         <item itemvalue="Application.P13_DragonArmy (1)" />
         <item itemvalue="Application.P13_DragonArmy" />
         <item itemvalue="Application.P12_SerbianUnleashed" />
         <item itemvalue="Application.P11_LegendaryFarming" />
-        <item itemvalue="Application.P10_LogsAggregator" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +174,7 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="26983000" />
+      <workItem from="1697523171879" duration="30334000" />
     </task>
     <servers />
   </component>
@@ -230,19 +199,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course01_StacksAndQueues/Exercise/P09_PoisonousPlants.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P03_WarNumberGame.java</url>
           <line>8</line>
           <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Exercise/P10_LogsAggregator.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="139" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
