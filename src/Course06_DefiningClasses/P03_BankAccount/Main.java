@@ -10,6 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         Map<Integer, BankAccount> bankAccounts = new HashMap<>();
+
         while (true) {
             String[] line = scanner.nextLine().split(" ");
             if ("end".equalsIgnoreCase(line[0])) {
