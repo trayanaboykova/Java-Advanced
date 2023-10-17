@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/P01_CarInfo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/P01_CarInfo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/P02_Constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course06_DefiningClasses/P02_Constructors/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,33 +70,7 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P12_SerbianUnleashed">
-    <configuration name="P08_UserLogs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P08_UserLogs" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P09_PopulationCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P09_PopulationCounter" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P13_DragonArmy (1)">
     <configuration name="P10_LogsAggregator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P10_LogsAggregator" />
       <module name="JavaAdvanced" />
@@ -132,13 +110,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P13_DragonArmy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P13_DragonArmy" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P13_DragonArmy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P13_DragonArmy" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P13_DragonArmy (1)" />
+        <item itemvalue="Application.P13_DragonArmy" />
         <item itemvalue="Application.P12_SerbianUnleashed" />
         <item itemvalue="Application.P11_LegendaryFarming" />
         <item itemvalue="Application.P10_LogsAggregator" />
-        <item itemvalue="Application.P09_PopulationCounter" />
-        <item itemvalue="Application.P08_UserLogs" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +178,7 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="14618000" />
+      <workItem from="1697523171879" duration="17513000" />
     </task>
     <servers />
   </component>
@@ -215,11 +219,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="currentSingers" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedHashMap$Entry" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaAdvanced$Demo_Fibonacci.ic" NAME="Demo_Fibonacci Coverage Results" MODIFIED="1684752104867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
