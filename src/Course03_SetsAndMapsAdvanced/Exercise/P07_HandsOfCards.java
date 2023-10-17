@@ -7,7 +7,7 @@ public class P07_HandsOfCards {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
 
-        //име на играча -> списък с карти (картите не трябва да се повтарям)
+        //име на играча -> списък с карти (картите не трябва да се повтарят)
         Map<String, Set<String>> players = new LinkedHashMap<>();
 
         while (!input.equals("JOKER")) {
