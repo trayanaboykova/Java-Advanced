@@ -1,4 +1,4 @@
-package vendingSystem;
+package Exam.vendingSystem;
 
 import java.math.BigDecimal;
 

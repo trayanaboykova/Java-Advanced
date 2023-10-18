@@ -5,7 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P01_ListyIterator/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P01_ListyIterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P02_Collection/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P02_Collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P03_StackIterator/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P03_StackIterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P04_Froggy/Lake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P04_Froggy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P05_ComparingObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P05_ComparingObjects/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P06_StrategyPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P06_StrategyPattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P06_StrategyPattern/PersonAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P06_StrategyPattern/PersonNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P07_EqualityLogic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P07_EqualityLogic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P08_PetClinics/Clinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P08_PetClinics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P08_PetClinics/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P09_LinkedListTraversal/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Ex_P09_LinkedListTraversal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P01_Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P01_Book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P02_Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P02_Library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P02_Library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P03_ComparableBook/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P03_ComparableBook/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P03_ComparableBook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P04_BookComparator/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P04_BookComparator/BookComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P04_BookComparator/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course08_IteratorsAndComparators/Lab_P04_BookComparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P01_RecursiveArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P02_RecursiveFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P03_SumOfCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P04_SetCover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P05_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P06_Quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course10_WorkshopAlgorithms/P07_BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vendingSystem/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/vendingSystem/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vendingSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/vendingSystem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vendingSystem/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam/vendingSystem/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +217,8 @@
       <workItem from="1697117342356" duration="603000" />
       <workItem from="1697276496917" duration="41337000" />
       <workItem from="1697437649683" duration="26072000" />
-      <workItem from="1697523171879" duration="30334000" />
+      <workItem from="1697523171879" duration="33979000" />
+      <workItem from="1697608865901" duration="2231000" />
     </task>
     <servers />
   </component>
