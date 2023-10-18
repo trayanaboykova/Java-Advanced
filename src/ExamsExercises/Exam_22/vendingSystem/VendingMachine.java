@@ -1,4 +1,4 @@
-package ExamsExercises.E22.vendingSystem;
+package ExamsExercises.Exam_22.vendingSystem;
 
 import java.util.ArrayList;
 import java.util.List;
