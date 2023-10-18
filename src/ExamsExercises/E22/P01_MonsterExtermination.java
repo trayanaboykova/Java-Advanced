@@ -1,4 +1,4 @@
-package Exam;
+package ExamsExercises.E22;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

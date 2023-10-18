@@ -1,4 +1,4 @@
-package Exam.vendingSystem;
+package ExamsExercises.E22.vendingSystem;
 
 import java.math.BigDecimal;
 
