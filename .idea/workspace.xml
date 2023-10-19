@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P01_ItsChocolateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P02_StickyFingers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P01_KAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P02_TreasureHunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P01_EnergyDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P02_RallyRacing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P01_ClimbThePeaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P02_NavyBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P01_ApocalypsePreparation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P02_BlindMansBuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P01_RubberDuckDebbugers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P02_TheSquirrel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P01_TempleOfDoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P02_MouseInTheKitchen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/P03_VendingSystem/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/P03_VendingSystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/P03_VendingSystem/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Cage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P01_DatingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P01_DatingApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P02_BookWorm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P02_BookWorm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +72,13 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P01_SumLines">
-    <configuration name="P01_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P01_SumLines" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_01.P03_Rabbits.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
+          <option name="PATTERN" value="ExamsExercises.Exam_01.rabbits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P11_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P11_LegendaryFarming" />
+    <configuration name="P01_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P01_SumLines" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
+          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.P01_SumLines" />
         <item itemvalue="Application.P13_DragonArmy (1)" />
         <item itemvalue="Application.P13_DragonArmy" />
         <item itemvalue="Application.P12_SerbianUnleashed" />
-        <item itemvalue="Application.P11_LegendaryFarming" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +183,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="1727000" />
+      <workItem from="1697705415177" duration="4412000" />
     </task>
     <servers />
   </component>
