@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/rabbits/Cage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Cage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/rabbits/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/rabbits/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_01/P03_Rabbits/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Present.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Guild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Rank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/Lootbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/Lootbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/ReVolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/ReVolt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P01_Bombs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P01_Bombs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P02_Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P02_Snake.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +79,20 @@
       <recent name="C:\Users\terra\Desktop\SoftUni\1. Java\3. Java Advanced Module\1. Java Advanced\JavaAdvanced\src\Course04_StreamsFilesAndDirectories\ExerciseResources\Exercises Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ExamsExercises.Exam_02.P03_Christmas.Main">
+    <configuration name="ExamsExercises.Exam_02.P03_Christmas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_02.P03_Christmas.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamsExercises.Exam_02.P03_Christmas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_01.P03_Rabbits.Main" />
       <module name="JavaAdvanced" />
@@ -90,19 +112,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P12_SerbianUnleashed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P12_SerbianUnleashed" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExamsExercises.Exam_02.P03_Christmas.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.P01_SumLines" />
         <item itemvalue="Application.P13_DragonArmy (1)" />
         <item itemvalue="Application.P13_DragonArmy" />
-        <item itemvalue="Application.P12_SerbianUnleashed" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +190,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="5817000" />
+      <workItem from="1697705415177" duration="8122000" />
     </task>
     <servers />
   </component>
