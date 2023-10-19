@@ -1,4 +1,4 @@
-package ExamsExercises.Exam_01.rabbits;
+package ExamsExercises.Exam_01.P03_Rabbits;
 
 import java.util.List;
 
