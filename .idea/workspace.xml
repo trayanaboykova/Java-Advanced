@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_02/P03_Christmas/Present.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Guild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/P03_Guild/Rank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/Lootbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/Lootbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/ReVolt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_03/ReVolt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P01_Bombs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P01_Bombs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P02_Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P02_Snake.java" afterDir="false" />
-    </list>
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +177,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="8122000" />
+      <workItem from="1697705415177" duration="8423000" />
     </task>
     <servers />
   </component>
