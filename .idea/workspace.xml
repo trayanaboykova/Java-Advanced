@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P01_FlowerWreaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P02_Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P01_Cooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P02_Spelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P01_MagicBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P02_Bomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P01_Bouquets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P02_CookingJourney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P01_OSPlanning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P02_Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P01_PastryShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P02_FormulaOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P01_AutumnCocktails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P02_MouseAndCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P01_Meeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P02_ThroneConquering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P01_FoodFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P02_PawnWars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P01_Blacksmith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P02_Armory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/E22/P01_MonsterExtermination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/P01_MonsterExtermination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/E22/P02_DeliveryBoy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/P02_DeliveryBoy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/E22/vendingSystem/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/Drink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/E22/vendingSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/E22/vendingSystem/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_22/vendingSystem/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +53,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/terra/Desktop/SoftUni/1. Java/3. Java Advanced Module/1. Java Advanced/JavaAdvanced/src/Course04_StreamsFilesAndDirectories/ExerciseResources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/terra/Desktop/SoftUni/1. Java/3. Java Advanced Module/1. Java Advanced/JavaAdvanced/src/Course04_StreamsFilesAndDirectories/ExerciseResources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Course04_StreamsFilesAndDirectories.Exercise" />
@@ -183,6 +198,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
+      <workItem from="1697705415177" duration="1259000" />
     </task>
     <servers />
   </component>
