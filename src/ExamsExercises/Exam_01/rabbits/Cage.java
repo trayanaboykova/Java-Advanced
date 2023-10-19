@@ -4,74 +4,77 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Cage {
-        private String name;
-        private int capacity;
-        private List<Rabbit> data;
-
-        public Cage(String name, int capacity) {
-            this.name = name;
-            this.capacity = capacity;
-            this.data = new ArrayList<>();
-        }
-
-        public String getName() {
-            return name;
-        }
-
-        public int getCapacity() {
-            return capacity;
-        }
-
-        public void add(Rabbit rabbit) {
-            if (this.data.size() < this.capacity) {
-                this.data.add(rabbit);
-            }
-        }
-
-        public boolean removeRabbit(String name) {
-            boolean contains = false;
-            for (int i = 0; i < this.data.size(); i++) {
-                if (data.get(i).getName().equals(name)) {
-                    contains = true;
-                    this.data.remove(i);
-                    break;
-                }
-            }
-            return contains;
-        }
+public class Cage { private List<Rabbit> data;
+    private String name;
+    private int capacity;
 
 
-        public void removeSpecies(String species) {
-            this.data = this.data.stream().filter(e -> e.getSpecies().equals(species)).collect(Collectors.toList());
-        }
+    public Cage(String name, int capacity) {
+        this.name = name;
+        this.capacity = capacity;
+        this.data = new ArrayList<>();
+    }
 
-        public Rabbit sellRabbit(String name){
-            for (Rabbit rabbits : this.data) {
-                if(rabbits.getName().equals(name)){
-                    rabbits.setAvailable(false);
-                    return rabbits;
-                }
+    public String getName() {
+        return name;
+    }
 
-            }
-            return null;
-        }
-        public List<Rabbit>sellRabbitBySpecies(String species){
-            List<Rabbit>rabs=this.data.stream().filter(e->e.getSpecies().equals(species)).collect(Collectors.toList());
-            for (Rabbit rab : rabs) {
-                rab.setAvailable(false);
-            }
-            return rabs;
-        }
-        public int count(){
-            return this.data.size();
-        }
-        public String report(){
-            StringBuilder sb=new StringBuilder();
+    public int getCapacity() {
+        return capacity;
+    }
 
-            sb.append((String.format("Rabbits available at %s:",this.name)))
-                    .append(System.lineSeparator());
-            this.data.stream().filter(Rabbit::isAvailable).forEach(sb::append);
-            return sb.toString().trim();
+    public void add(Rabbit rabbit) {
+        if (this.capacity > this.data.size()) {
+            this.data.add(rabbit);
         }
     }
+
+    public boolean removeRabbit(String name) {
+        Rabbit rabbit = this.data.stream().filter(r -> r.getName().equals(name))
+                .findFirst()
+                .orElse(null);
+
+        return this.data.remove(rabbit);
+    }
+
+    public void removeSpecies(String species) {
+        this.data.removeIf(r -> r.getSpecies().equals(species));
+    }
+
+    public Rabbit sellRabbit(String name) {
+        Rabbit rabbit = this.data.stream().filter(r -> r.getName().equals(name))
+                .findFirst()
+                .orElseThrow();
+
+        rabbit.setAvailable(false);
+
+        return rabbit;
+    }
+
+    public List<Rabbit> sellRabbitBySpecies(String species) {
+        List<Rabbit> rabbits = this.data.stream().filter(r -> r.getSpecies().equals(species))
+                .collect(Collectors.toList());
+
+        rabbits.forEach(r -> r.setAvailable(false));
+
+        return rabbits;
+    }
+
+    public int count() {
+        return this.data.size();
+    }
+
+    public String report() {
+        List<Rabbit> rabbits = this.data.stream().filter(r -> r.isAvailable() == true)
+                .collect(Collectors.toList());
+
+        StringBuilder sb = new StringBuilder();
+        sb.append(String.format("Rabbits available at %s:", getName()));
+        rabbits.forEach(r -> {
+            sb.append(System.lineSeparator());
+            sb.append(r.toString());
+        });
+
+        return sb.toString();
+    }
+}

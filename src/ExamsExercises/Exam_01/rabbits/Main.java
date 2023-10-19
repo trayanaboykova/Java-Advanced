@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        //Initialize the repository (Cage)
+
         Cage cage = new Cage("Wildness", 20);
         //Initialize entity
         Rabbit rabbit = new Rabbit("Fluffy", "Blanc de Hotot");
@@ -15,8 +15,7 @@ public class Main {
         cage.add(rabbit);
         System.out.println(cage.count()); //1
 //Remove Rabbit
-
-        System.out.println(cage.removeRabbit("asd")); //false
+        cage.removeRabbit("Rabbit Name"); //false
 
         Rabbit secondRabbit = new Rabbit("Bunny", "Brazilian");
         Rabbit thirdRabbit = new Rabbit("Jumpy", "Cashmere Lop");
@@ -32,10 +31,10 @@ public class Main {
 //Sell Rabbit by name
         System.out.println(cage.sellRabbit("Bunny")); //Rabbit (Brazilian): Bunny
 //Sell Rabbit by species
-        List<Rabbit> soldSpecies = cage.sellRabbitBySpecies(("Cashmere Lop"));
+        List<Rabbit> soldSpecies = cage.sellRabbitBySpecies("Cashmere Lop");
 
         soldSpecies.forEach(f -> {
-            System.out.println(f.getName() + " ");
+            System.out.println(f.getName());
 
         });
         //Jumpy
@@ -48,4 +47,5 @@ public class Main {
 
     }
 }
+
 
