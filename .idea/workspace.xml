@@ -5,25 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P03_CarDealership/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P03_CarDealership/Dealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P03_CarDealership/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P03_University/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P03_University/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P03_University/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P03_GroomingSalon/GroomingSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P03_GroomingSalon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P03_GroomingSalon/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P03_Cafe/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P03_Cafe/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P03_Cafe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Cage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Workout.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P01_Bouquets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P01_Bouquets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P02_CookingJourney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_08/P02_CookingJourney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P01_OSPlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P01_OSPlanning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P02_Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_09/P02_Python.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P01_PastryShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P01_PastryShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P02_FormulaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_10/P02_FormulaOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P01_Meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P01_Meeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P02_ThroneConquering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P02_ThroneConquering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P01_FoodFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P01_FoodFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P02_PawnWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P02_PawnWars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P01_Blacksmith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P01_Blacksmith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P02_Armory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P02_Armory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P01_ItsChocolateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P01_ItsChocolateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P02_StickyFingers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P02_StickyFingers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P01_KAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P01_KAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P02_TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P02_TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +96,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExamsExercises.Exam_08.P03_University.Main">
+  <component name="RunManager" selected="Application.ExamsExercises.Exam_12.P03_WaterAdventure.Main">
     <configuration name="ExamsExercises.Exam_02.P03_Christmas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_02.P03_Christmas.Main" />
       <module name="JavaAdvanced" />
@@ -109,6 +116,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExamsExercises.Exam_08.P03_University.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamsExercises.Exam_12.P03_WaterAdventure.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_12.P03_WaterAdventure.Main" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamsExercises.Exam_12.P03_WaterAdventure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,26 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P13_DragonArmy (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course03_SetsAndMapsAdvanced.Exercise.P13_DragonArmy" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course03_SetsAndMapsAdvanced.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExamsExercises.Exam_12.P03_WaterAdventure.Main" />
         <item itemvalue="Application.ExamsExercises.Exam_08.P03_University.Main" />
         <item itemvalue="Application.ExamsExercises.Exam_02.P03_Christmas.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.P01_SumLines" />
-        <item itemvalue="Application.P13_DragonArmy (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +207,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="15933000" />
+      <workItem from="1697705415177" duration="23318000" />
     </task>
     <servers />
   </component>
