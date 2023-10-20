@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P03_Parking/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P03_Parking/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_04/P03_Parking/Parking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P03_VetClinic/Clinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P03_VetClinic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P03_VetClinic/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P03_Openning/Bakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P03_Openning/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P03_Openning/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P01_FlowerWreaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P01_FlowerWreaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P02_Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_05/P02_Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P01_Cooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P01_Cooking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P02_Spelling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_06/P02_Selling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P01_MagicBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P01_MagicBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P02_Bomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_07/P02_Bomb.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +184,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="11812000" />
+      <workItem from="1697705415177" duration="13349000" />
     </task>
     <servers />
   </component>
