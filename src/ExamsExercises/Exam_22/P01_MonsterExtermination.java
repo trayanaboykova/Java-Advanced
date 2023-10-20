@@ -1,52 +1,63 @@
 package ExamsExercises.Exam_22;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
-import java.util.Scanner;
+import java.util.*;
 
 public class P01_MonsterExtermination {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String[] armorInput = scanner.nextLine().split(",");
-        String[] strikingInput = scanner.nextLine().split(",");
-
-        Deque<Integer> armorQueue = new ArrayDeque<>();
-        Deque<Integer> strikingStack = new ArrayDeque<>();
-
-        for (String armor : armorInput) {
-            armorQueue.offer(Integer.parseInt(armor));
+        Queue<Integer> monsters = new LinkedList<>();
+        for (String s : scanner.nextLine().split(",")) {
+            monsters.offer(Integer.parseInt(s));
         }
 
-        for (String striking : strikingInput) {
-            strikingStack.push(Integer.parseInt(striking));
+        Stack<Integer> strikes = new Stack<>();
+        for (String s : scanner.nextLine().split(",")) {
+            strikes.push(Integer.parseInt(s));
         }
 
         int killedMonsters = 0;
 
-        while (!armorQueue.isEmpty() && !strikingStack.isEmpty()) {
-            int currentArmor = armorQueue.peek();
-            int currentStriking = strikingStack.pop();
+        while (!monsters.isEmpty() && !strikes.isEmpty()) {
+            int armour = monsters.peek();
+            int strike = strikes.peek();
 
-            if (currentStriking >= currentArmor) {
-                armorQueue.poll();
+            if (strike >= armour) {
                 killedMonsters++;
-                if (!strikingStack.isEmpty()) {
-                    int remainingStriking = strikingStack.pop();
-                    strikingStack.push(currentStriking - currentArmor + remainingStriking);
+                strike -= armour;
+
+                if (strike == 0) {
+                    strikes.pop();
+                    monsters.poll();
+                } else {
+                    monsters.poll();
+                    if (strikes.size() == 1) {
+                        strikes.pop();
+                        strikes.push(strike);
+                    } else {
+                        strikes.pop();
+                        int tempStrike = strike;
+                        int previousStrike = strikes.pop();
+                        strikes.push(previousStrike + tempStrike);
+                    }
                 }
             } else {
-                armorQueue.offer(currentArmor - currentStriking);
-                armorQueue.offer(armorQueue.poll());
+                armour -= strike;
+                strikes.pop();
+                monsters.poll();
+                monsters.offer(armour);
             }
         }
 
-        if (armorQueue.isEmpty()) {
+        if (monsters.isEmpty()) {
             System.out.println("All monsters have been killed!");
-        } else {
+        }
+        if (strikes.isEmpty()) {
             System.out.println("The soldier has been defeated.");
         }
 
         System.out.println("Total monsters killed: " + killedMonsters);
+
+        scanner.close();
     }
 }

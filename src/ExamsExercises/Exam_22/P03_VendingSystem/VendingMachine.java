@@ -1,9 +1,12 @@
 package ExamsExercises.Exam_22.P03_VendingSystem;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
 
 public class VendingMachine {
+
     private int buttonCapacity;
     private List<Drink> drinks;
 
@@ -12,67 +15,58 @@ public class VendingMachine {
         this.drinks = new ArrayList<>();
     }
 
+    public int getButtonCapacity() {
+        return buttonCapacity;
+    }
+
+    public void setButtonCapacity(int buttonCapacity) {
+        this.buttonCapacity = buttonCapacity;
+    }
+
+    public List<Drink> getDrinks() {
+        return drinks;
+    }
+
+    public void setDrinks(ArrayList<Drink> drinks) {
+        this.drinks = drinks;
+    }
+
     public int getCount() {
-        return drinks.size();
+        return this.drinks.size();
     }
 
     public void addDrink(Drink drink) {
-        if (drinks.size() < buttonCapacity) {
+        if (buttonCapacity > drinks.size()) {
             drinks.add(drink);
         }
     }
 
     public boolean removeDrink(String name) {
-        Drink drinkToRemove = null;
-        for (Drink drink : drinks) {
-            if (drink.getName().equals(name)) {
-                drinkToRemove = drink;
-                break;
-            }
-        }
-        if (drinkToRemove != null) {
-            drinks.remove(drinkToRemove);
-            return true;
-        }
-        return false;
+        return this.drinks.removeIf(d -> d.getName().equals(name));
     }
 
     public Drink getLongest() {
-        Drink longestDrink = null;
-        for (Drink drink : drinks) {
-            if (longestDrink == null || drink.getName().length() > longestDrink.getName().length()) {
-                longestDrink = drink;
-            }
-        }
-        return longestDrink;
+        return this.drinks.stream().max(Comparator.comparingInt(Drink::getVolume)).orElse(null);
     }
 
     public Drink getCheapest() {
-        Drink cheapestDrink = drinks.get(0);
-        for (Drink drink : drinks) {
-            if (drink.getPrice().compareTo(cheapestDrink.getPrice()) < 0) {
-                cheapestDrink = drink;
-            }
-        }
-        return cheapestDrink;
+        return this.drinks.stream().min(Comparator.comparing(Drink::getPrice)).orElse(null);
     }
 
-
     public String buyDrink(String name) {
-        for (Drink drink : drinks) {
-            if (drink.getName().equals(name)) {
-                drinks.remove(drink);
-                return drink.toString();
-            }
-        }
-        return null;
+        Optional<Drink> drink = this.drinks.stream().filter(d -> d.getName().equals(name)).findFirst();
+        return drink.map(value -> value.toString().trim()).orElse("");
     }
 
     public String report() {
-        StringBuilder reportBuilder = new StringBuilder("Drinks available:\n");
+        StringBuilder sb = new StringBuilder();
+
+        sb.append("Drinks available:\n");
+
         for (Drink drink : drinks) {
-            reportBuilder.append(drink).append("\n");
+            sb.append(drink.toString());
+            sb.append("\n");
         }
-        return reportBuilder.toString().trim();
+        return sb.toString();
     }
 }

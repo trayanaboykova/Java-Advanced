@@ -5,32 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P03_Hotel/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Aquarium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P03_WaterAdventure/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Cage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P03_Parrots/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Egg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P03_EasterBasket/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P03_Workout/Workout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Habitat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Shelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/SoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Kindergarten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Cloth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/RepairShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P01_Meeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P01_Meeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P02_ThroneConquering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_12/P02_ThroneConquering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P01_FoodFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P01_FoodFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P02_PawnWars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_13/P02_PawnWars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P01_Blacksmith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P01_Blacksmith.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P02_Armory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_14/P02_Armory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P01_ItsChocolateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P01_ItsChocolateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P02_StickyFingers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_15/P02_StickyFingers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P01_KAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P01_KAT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P02_TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P02_TreasureHunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P01_EnergyDrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P01_EnergyDrinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P02_RallyRacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P02_RallyRacing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P01_ClimbThePeaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P01_ClimbThePeaks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P02_NavyBattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P02_NavyBattle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P01_ApocalypsePreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P01_ApocalypsePreparation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P02_BlindMansBuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P02_BlindMansBuff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P01_RubberDuckDebbugers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P01_RubberDuckDebbugers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P02_TheSquirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P02_TheSquirrel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P01_TempleOfDoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P01_TempleOfDoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P02_MouseInTheKitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P02_MouseInTheKitchen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +210,7 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="23318000" />
+      <workItem from="1697705415177" duration="27583000" />
     </task>
     <servers />
   </component>

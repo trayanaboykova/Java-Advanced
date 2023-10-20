@@ -42,11 +42,13 @@ public class Main {
 //Name: Latte, Price: $3.5, Volume: 220 ml
 
 //Get Cheapest Drink
-        System.out.println(vendingMachine.getCheapest()); //Name: Coffee, Price: $2.0, Volume: 120 ml
-
+        System.out.println(vendingMachine.getCheapest());
+//Name: Coffee, Price: $2.0, Volume: 120 ml
 
 //Buy a specific Drink
-        System.out.println(vendingMachine.buyDrink("Latte")); //Name: Latte, Price: $2.8, Volume: 220 ml
+        System.out.println(vendingMachine.buyDrink("Latte"));
+
+//Name: Latte, Price: $2.8, Volume: 180 ml
 
 //Drinks Report
         System.out.println(vendingMachine.report());
