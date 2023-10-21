@@ -2,7 +2,8 @@ package ExamsExercises.Exam_11;
 
 import java.util.Scanner;
 
-public class P02_MouseAndCheese { public static void main(String[] args) {
+public class P02_MouseAndCheese {
+    public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
     int n = Integer.parseInt(scanner.nextLine());

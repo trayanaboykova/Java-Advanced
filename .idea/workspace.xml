@@ -5,35 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Elephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Habitat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_16/P03_ElephantSanctuary/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P03_AnimalShelter/Shelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/SoftUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P03_SoftUnisStudents/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Kindergarten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P03_SoftuniKindergarten/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Cloth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P03_ClothesMagazine/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/RepairShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P03_AutomotiveRepairShop/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P01_OffroadChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P02_FishingCompetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P03_Halloween/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P03_Halloween/Kid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P03_Halloween/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P01_EnergyDrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P01_EnergyDrinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P02_RallyRacing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_17/P02_RallyRacing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P01_ClimbThePeaks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P01_ClimbThePeaks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P02_NavyBattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_18/P02_NavyBattle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P01_ApocalypsePreparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P01_ApocalypsePreparation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P02_BlindMansBuff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_19/P02_BlindMansBuff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P01_RubberDuckDebbugers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P01_RubberDuckDebbugers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P02_TheSquirrel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_20/P02_TheSquirrel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P01_TempleOfDoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P01_TempleOfDoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P02_MouseInTheKitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_21/P02_MouseInTheKitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P02_MouseAndCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/Exam_11/P02_MouseAndCheese.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,31 +75,13 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="Exam.halloween" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExamsExercises.Exam_12.P03_WaterAdventure.Main">
-    <configuration name="ExamsExercises.Exam_02.P03_Christmas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_02.P03_Christmas.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo2" />
       <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamsExercises.Exam_02.P03_Christmas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExamsExercises.Exam_08.P03_University.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_08.P03_University.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamsExercises.Exam_08.P03_University.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.Exam_01.P03_Rabbits.Main" />
+      <option name="MAIN_CLASS_NAME" value="Exam.P03_Halloween.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamsExercises.Exam_01.P03_Rabbits.*" />
+          <option name="PATTERN" value="Exam.P03_Halloween.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +112,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P01_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_StreamsFilesAndDirectories.Exercise.P01_SumLines" />
+    <configuration name="P01_OffroadChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.P01_OffroadChallenge" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_StreamsFilesAndDirectories.Exercise.*" />
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_FishingCompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.P02_FishingCompetition" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExamsExercises.Exam_12.P03_WaterAdventure.Main" />
-        <item itemvalue="Application.ExamsExercises.Exam_08.P03_University.Main" />
-        <item itemvalue="Application.ExamsExercises.Exam_02.P03_Christmas.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.P01_SumLines" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.P02_FishingCompetition" />
+        <item itemvalue="Application.P01_OffroadChallenge" />
+        <item itemvalue="Application.ExamsExercises.Exam_12.P03_WaterAdventure.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +183,8 @@
       <workItem from="1697523171879" duration="33979000" />
       <workItem from="1697608865901" duration="2231000" />
       <workItem from="1697629366301" duration="1180000" />
-      <workItem from="1697705415177" duration="27583000" />
+      <workItem from="1697705415177" duration="27903000" />
+      <workItem from="1697866532504" duration="15863000" />
     </task>
     <servers />
   </component>
