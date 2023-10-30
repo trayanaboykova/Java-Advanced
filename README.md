@@ -1,8 +1,8 @@
 # Java Advanced
 Coding exercises and projects from my education at www.softuni.bg
 <br>
-All of the solutions have passed 100/100 - you can check them here: 
-https://judge.softuni.org/Contests#!/List/ByCategory/175/Java-Advanced-Exercises
+All of the solutions have passed 100/100 - you can check them here: <br>
+[https://judge.softuni.org/Contests#!/List/ByCategory/175/Java-Advanced-Exercises](https://judge.softuni.org/Contests/#!/List/ByCategory/174/Java-Advanced)
 <br>
 
 <b> Course Curriculum: Java Advanced </b>
