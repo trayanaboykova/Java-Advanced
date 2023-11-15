@@ -1,9 +1,7 @@
 # Java Advanced
-Coding exercises and projects from my education at www.softuni.bg
+Coding exercises and projects from my education at <a href="www.softuni.bg">SoftUni</a>
 <br>
-All of the solutions have passed 100/100 - you can check them here: <br>
-[https://judge.softuni.org/Contests#!/List/ByCategory/175/Java-Advanced-Exercises](https://judge.softuni.org/Contests/#!/List/ByCategory/174/Java-Advanced)
-<br>
+All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests#!/List/ByCategory/174/Java-Advanced">Java OOP</a>
 
 <b> Course Curriculum: Java Advanced </b>
 
