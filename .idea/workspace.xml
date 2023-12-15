@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Exam/P01_OffroadChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P01_OffroadChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/P02_FishingCompetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P02_FishingCompetition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/Kid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/Kid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2Pv8OAVphNrGD59Os13Iv11LqfE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,25 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/terra/Desktop/SoftUni/1. Java/3. Java Advanced Module/1. Java Advanced/JavaAdvanced/src/Course04_StreamsFilesAndDirectories/ExerciseResources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/terra/Desktop/SoftUni/1. Java/3. Java Advanced Module/1. Java Advanced/JavaAdvanced/src/Course04_StreamsFilesAndDirectories/ExerciseResources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Course04_StreamsFilesAndDirectories.Exercise" />
@@ -186,6 +187,7 @@
       <workItem from="1698078304828" duration="180000" />
       <workItem from="1698675981560" duration="5000" />
       <workItem from="1702653828886" duration="28000" />
+      <workItem from="1702662281240" duration="416000" />
     </task>
     <servers />
   </component>
