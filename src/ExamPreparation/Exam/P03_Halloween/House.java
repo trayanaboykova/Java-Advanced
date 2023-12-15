@@ -1,4 +1,4 @@
-package Exam.P03_Halloween;
+package ExamPreparation.Exam.P03_Halloween;
 
 import java.util.ArrayList;
 import java.util.List;

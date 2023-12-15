@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Exam/P01_OffroadChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P01_OffroadChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/P02_FishingCompetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P02_FishingCompetition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/Kid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/Kid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam/P03_Halloween/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/Exam/P03_Halloween/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.P03_Halloween.Main" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Exam.P03_Halloween.Main" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.P03_Halloween.*" />
+          <option name="PATTERN" value="ExamPreparation.Exam.P03_Halloween.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="P01_OffroadChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.P01_OffroadChallenge" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Exam.P01_OffroadChallenge" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="ExamPreparation.Exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="P02_FishingCompetition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exam.P02_FishingCompetition" />
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Exam.P02_FishingCompetition" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exam.*" />
+          <option name="PATTERN" value="ExamPreparation.Exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,6 +185,7 @@
       <workItem from="1697866532504" duration="16457000" />
       <workItem from="1698078304828" duration="180000" />
       <workItem from="1698675981560" duration="5000" />
+      <workItem from="1702653828886" duration="28000" />
     </task>
     <servers />
   </component>

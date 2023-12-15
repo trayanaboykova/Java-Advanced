@@ -1,4 +1,4 @@
-package Exam;
+package ExamPreparation.Exam;
 
 import java.util.Scanner;
 
