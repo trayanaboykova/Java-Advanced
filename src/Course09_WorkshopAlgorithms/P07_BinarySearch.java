@@ -1,4 +1,4 @@
-package Course10_WorkshopAlgorithms;
+package Course09_WorkshopAlgorithms;
 
 import java.util.Arrays;
 import java.util.Scanner;
