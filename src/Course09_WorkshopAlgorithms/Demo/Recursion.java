@@ -1,4 +1,4 @@
-package Demo;
+package Course09_WorkshopAlgorithms.Demo;
 
 public class Recursion {
     public static void main(String[] args) {
