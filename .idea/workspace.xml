@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19a027b2-b283-421c-86e6-8b538971c453" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,6 +192,7 @@
       <workItem from="1708023680599" duration="87000" />
       <workItem from="1708083461017" duration="129000" />
       <workItem from="1708084059211" duration="18000" />
+      <workItem from="1708084477508" duration="161000" />
     </task>
     <servers />
   </component>
@@ -218,7 +217,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course03_SetsAndMapsAdvanced/Lab/P03_WarNumberGame.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson03_SetsAndMapsAdvanced/Lab/P03_WarNumberGame.java</url>
           <line>8</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
