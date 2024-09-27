@@ -32,7 +32,7 @@ This module covered the implementation of iterators for custom data structures a
 **[Workshop: Algorithms Introduction](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson09_WorkshopAlgorithms)**: <br> 
 In this in-depth workshop, I explored fundamental algorithmic concepts. It provided a strong foundation for understanding essential algorithms and data structures.
 
-By completing the "Java Advanced" course, I have gained a deeper understanding of advanced Java programming topics, including data structures (stacks, queues, sets, maps) and multidimensional arrays. The course's practical exercises and workshops have equipped me with the skills and knowledge needed to excel in advanced Java programming.
+*By completing the [Java Advanced Course](https://softuni.bg/trainings/4225/java-advanced-september-2023), I have gained a deeper understanding of advanced Java programming topics, including data structures (stacks, queues, sets, maps) and multidimensional arrays. The course's practical exercises and workshops have equipped me with the skills and knowledge needed to excel in advanced Java programming.*
 
 # Certificate
 <a href="https://softuni.bg/certificates/details/188658/535a484a" rel="nofollow"><img src="https://github.com/trayanaboykova/Java-Advanced/assets/101351760/ffdaf4e5-1025-473a-b4af-cfb4d6f8bef9" alt="Java Advanced"></a>
