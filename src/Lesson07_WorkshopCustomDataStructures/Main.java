@@ -38,5 +38,7 @@ public class Main {
         smartStack.push(3);
         smartStack.push(65);
         smartStack.push(34);
+
+        smartStack.forEach(System.out::println);
 }
     }
