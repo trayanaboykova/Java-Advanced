@@ -16,10 +16,8 @@ public class SmartArray {
     }
 
     private int[] resize() {
-        int[] newData = new int[data.length + 1];
-        for (int i = 0; i < data.length; i++) {
-            newData[i] = data[i];
-        }
+        int[] newData = new int[data.length * 2];
+        System.arraycopy(data, 0, newData, 0, data.length);
         return newData;
     }
 
