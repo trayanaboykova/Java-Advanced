@@ -1,5 +1,7 @@
 package Lesson07_WorkshopCustomDataStructures;
 
+import java.util.function.Consumer;
+
 public class SmartStack {
 
     // node structure
@@ -33,5 +35,17 @@ public class SmartStack {
 
     public int size() {
         return size;
+    }
+
+    public void forEach(Consumer<Integer> consumer) {
+        Node last = top;
+        while (last != null) {
+            consumer.accept(last.val);
+            last = last.prev;
+        }
+    }
+
+    public boolean isEmpty() {
+        return  size == 0;
     }
 }
