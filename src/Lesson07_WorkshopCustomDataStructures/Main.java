@@ -6,6 +6,19 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
+        ArrayList<Integer> list = new ArrayList<>();
+
+//        list.add(13);
+//        list.add(2);
+//        list.add(65);
+//        list.add(34);
+//
+//        for (int i = 0; i < list.size(); i++) {
+//            System.out.println(list.get(i));
+//        }
+
+        list.forEach(System.out::println);
+
         SmartArray smartArray = new SmartArray();
 
 //        smartArray.add(13);
@@ -17,16 +30,7 @@ public class Main {
 //            System.out.println(smartArray.get(i));
 //        }
 
-        ArrayList<Integer> list = new ArrayList<>();
-
-//        list.add(13);
-//        list.add(2);
-//        list.add(65);
-//        list.add(34);
-//
-//        for (int i = 0; i < list.size(); i++) {
-//            System.out.println(list.get(i));
-//        }
+        smartArray.forEach(System.out::println);
 
     }
 }
