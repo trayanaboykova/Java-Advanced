@@ -23,6 +23,9 @@ In this module, I delved into the world of Functional Programming. I learned how
 **[Defining Classes](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson06_DefiningClasses)**: <br> 
 This module focused on creating and using custom classes. I gained a deeper understanding of object-oriented programming principles and learned how to design effective classes.
 
+**[Workshop: Custom Data Structures](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson07_WorkshopCustomDataStructures)**: <br> 
+In this workshop, I created custom data structures similar to Java's ArrayList, Stack, and LinkedList, working with integers. I implemented functionalities like adding, removing, and retrieving elements, as well as iterating through the collection. 
+
 **[Generics](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson07_Generics)**: <br>
 I learned about generics in Java during this module. I understood their importance in creating reusable and type-safe code.
 
