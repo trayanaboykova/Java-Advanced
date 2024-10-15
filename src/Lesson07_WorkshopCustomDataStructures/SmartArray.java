@@ -22,4 +22,12 @@ public class SmartArray {
         }
         return newData;
     }
+
+    public int size() {
+        return index;
+    }
+
+    public int get(int index) {
+        return data[index];
+    }
 }
