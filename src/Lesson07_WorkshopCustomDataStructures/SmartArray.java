@@ -11,15 +11,15 @@ public class SmartArray {
 
     public void add(int element) {
         if (index == data.length) {
-            data = resize();
+            data = resize(data.length * 2);
         }
         data[index] = element;
         index++;
     }
 
-    private int[] resize() {
-        int[] newData = new int[data.length * 2];
-        System.arraycopy(data, 0, newData, 0, data.length);
+    private int[] resize(int newSize) {
+        int[] newData = new int[newSize];
+        System.arraycopy(data, 0, newData, 0, this.index);
         return newData;
     }
 
@@ -38,6 +38,9 @@ public class SmartArray {
         }
         data[this.index - 1] = 0;
         this.index--;
+        if (this.index == data.length / 2 ){
+            data = resize(data.length / 2 );
+        }
         return element;
     }
 }
