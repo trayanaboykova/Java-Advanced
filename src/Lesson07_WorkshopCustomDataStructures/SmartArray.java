@@ -1,5 +1,7 @@
 package Lesson07_WorkshopCustomDataStructures;
 
+import java.util.function.Consumer;
+
 public class SmartArray {
     private int[] data;
     private int index;
@@ -38,9 +40,26 @@ public class SmartArray {
         }
         data[this.index - 1] = 0;
         this.index--;
-        if (this.index == data.length / 2 ){
+        if (this.index == data.length / 4 ){
             data = resize(data.length / 2 );
         }
         return element;
     }
+
+    public void add(int index, int element) {
+        int lastElement = data[this.index - 1];
+        for (int i = this.index - 1; i > index; i--) {
+            data[i] = data[i - 1];
+        }
+        data[index] = element;
+        add(lastElement);
+    }
+
+    public void forEach(Consumer<Integer> consumer) {
+        for (int i = 0; i < index; i++) {
+            consumer.accept(data[i]);
+        }
+    }
+
+
 }
