@@ -32,5 +32,11 @@ public class Main {
 
         smartArray.forEach(System.out::println);
 
-    }
+        SmartStack smartStack = new SmartStack();
+
+        smartStack.push(13);
+        smartStack.push(3);
+        smartStack.push(65);
+        smartStack.push(34);
 }
+    }
