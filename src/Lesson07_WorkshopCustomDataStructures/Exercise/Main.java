@@ -11,5 +11,6 @@ public class Main {
         System.out.println(linkedList.get(2));
 
         linkedList.removeFirst();
+        linkedList.removeLast();
     }
 }
