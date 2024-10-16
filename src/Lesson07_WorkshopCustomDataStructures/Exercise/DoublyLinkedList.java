@@ -1,5 +1,7 @@
 package Lesson07_WorkshopCustomDataStructures.Exercise;
 
+import java.util.function.Consumer;
+
 public class DoublyLinkedList {
     // глава - първият елемент(node) в списъка
     private Node head;
@@ -112,6 +114,14 @@ public class DoublyLinkedList {
             this.tail.next = null;
             this.size--;
             return removedElement;
+        }
+    }
+
+    public void forEach(Consumer<Integer> consumer) {
+        Node currentNode = this.head;
+        while (currentNode != null) {
+            consumer.accept(currentNode.currentValue);
+            currentNode = currentNode.next;
         }
     }
 
