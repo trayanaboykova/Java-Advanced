@@ -91,6 +91,30 @@ public class DoublyLinkedList {
         }
     }
 
+    public int removeLast() {
+        // премахва и връща последния елемент от списъка
+        // 1. проверка за празен списък
+        if (isEmpty()) {
+            throw new IllegalStateException("Error while removing element from empty list.");
+        }
+        // 2. списък с един елемент
+        else if (this.size == 1) {
+            // премахваме единствения наличен елемент
+            int removedElement = this.head.currentValue;
+            this.head = this.tail = null;
+            this.size--;
+            return removedElement;
+        }
+        // 3. списък с повече от един елемент
+        else {
+            int removedElement = this.tail.currentValue; // премахнатия елемент
+            this.tail = this.tail.prev; // премествам опашката
+            this.tail.next = null;
+            this.size--;
+            return removedElement;
+        }
+    }
+
     private void checkValidIndex(int index) {
         if (index < 0 || index >= this.size) {
             throw new IndexOutOfBoundsException("The index " + index + " is out of bounds!");
