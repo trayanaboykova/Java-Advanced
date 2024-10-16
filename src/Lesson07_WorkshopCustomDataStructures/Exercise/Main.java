@@ -9,5 +9,7 @@ public class Main {
         linkedList.addLast(4);
 
         System.out.println(linkedList.get(2));
+
+        linkedList.removeFirst();
     }
 }
