@@ -1,5 +1,7 @@
 package Lesson07_WorkshopCustomDataStructures.Exercise;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.function.Consumer;
 
 public class DoublyLinkedList {
@@ -136,4 +138,13 @@ public class DoublyLinkedList {
         // false -> ако списъкът не е празен
         return this.size == 0;
     }
+
+    public int[] toArray() {
+        // 1. съхраняваме елементите в лист
+        List<Integer> resultList = new ArrayList<>();
+        forEach(el -> resultList.add(el));
+        // 2. преобразуваме листа в масив
+        return resultList.stream().mapToInt(e -> e).toArray();
+    }
+
 }
