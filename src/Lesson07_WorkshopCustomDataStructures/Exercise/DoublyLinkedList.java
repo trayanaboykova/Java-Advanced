@@ -12,7 +12,7 @@ public class DoublyLinkedList {
         // добавя елемент(node) в началото на списъка
         // 1. създаваме нов node
         Node newNode = new Node(value);
-        // 2. проверка дали списъка е празен
+        // 2. проверка дали списъкът е празен
         if (isEmpty()) {
            // празен
             this.head = newNode;
@@ -24,6 +24,20 @@ public class DoublyLinkedList {
             this.head = newNode;
         }
     }
+
+    public void addLast(int value) {
+        // добавя елемент(node) в края на списъка
+        // проверка дали списъкът е празен
+        if (isEmpty()) {
+            // празен
+            addFirst(value);
+        } else {
+            // не е празен
+            // създаваме нов node
+            Node newNode = new Node(value);
+        }
+    }
+
     public boolean isEmpty() {
         // true -> ако имаме празен списък
         // false -> ако списъкът не е празен
