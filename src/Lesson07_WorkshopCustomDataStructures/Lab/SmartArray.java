@@ -1,4 +1,4 @@
-package Lesson07_WorkshopCustomDataStructures;
+package Lesson07_WorkshopCustomDataStructures.Lab;
 
 import java.util.function.Consumer;
 
