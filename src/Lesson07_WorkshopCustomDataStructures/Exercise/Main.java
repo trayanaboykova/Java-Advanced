@@ -17,5 +17,10 @@ public class Main {
 
         linkedList.forEach(el -> System.out.println(el));
 
+        int[] array = linkedList.toArray();
+
+        for (int element : array) {
+            System.out.println(element + " ");
+        }
     }
 }
