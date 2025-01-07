@@ -3,7 +3,7 @@ Coding exercises and projects from my education at <a href="https://softuni.bg/"
 <br>
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests#!/List/ByCategory/174/Java-Advanced">Java Advanced</a>
 
-<b> Course Curriculum: Java Advanced </b>
+<b> Course Curriculum: [Java Advanced Course](https://softuni.bg/trainings/4225/java-advanced-september-2023) </b>
 
 **[Stacks and Queues](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson01_StacksAndQueues)**: <br> 
 In the Stacks and Queues module, I delved into fundamental data structures. Stacks, following a last-in, first-out (LIFO) order, proved invaluable for tasks like tracking function calls and undo operations. Meanwhile, Queues, with their first-in, first-out (FIFO) approach, excelled in scenarios such as task management and orderly request handling. This module provided a deep understanding of these essential data structures and their versatile uses.
