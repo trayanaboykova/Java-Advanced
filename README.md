@@ -32,7 +32,7 @@ I learned about generics in Java during this module. I understood their importan
 **[Iterators and Comparators](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson08_IteratorsAndComparators)**: <br> 
 This module covered the implementation of iterators for custom data structures and customizing comparisons using comparators.
 
-**[Workshop: Algorithms Introduction](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson09_WorkshopAlgorithms)**: <br> 
+**[Workshop: Algorithms Introduction](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson10_WorkshopAlgorithms)**: <br> 
 In this in-depth workshop, I explored fundamental algorithmic concepts. It provided a strong foundation for understanding essential algorithms and data structures.
 
 *By completing the [Java Advanced Course](https://softuni.bg/trainings/4225/java-advanced-september-2023), I have gained a deeper understanding of advanced Java programming topics, including data structures (stacks, queues, sets, maps) and multidimensional arrays. The course's practical exercises and workshops have equipped me with the skills and knowledge needed to excel in advanced Java programming.*
